@@ -1,0 +1,1001 @@
+ID,Type,Status,Created Date,Created User,Name,Modified Date,Modified User IdModified User
+3,ContactSegment,Draft,2017-06-21,David Laberge,REPORTING - Assorted record counts,2017-06-27,14,David Laberge
+5,ContactSegment,Draft,2017-06-26,MgrAgilent,zzztestli,2017-06-26,8,MgrAgilent
+10,ContactSegment,Draft,2017-07-14,Richelle Shaffer,TESTRS,2017-07-14,24,Richelle Shaffer
+11,ContactSegment,Draft,2017-07-14,Sandeep Rohilla,test-segment,2017-07-26,10,Sandeep Rohilla
+12,ContactSegment,Draft,2017-07-14,Richelle Shaffer,REPORTING - All Contacts,2019-01-15,14,David Laberge
+13,ContactSegment,Draft,2017-07-18,Jeremiah Clark,zzR1 - Jeremiah,2017-07-18,23,Jeremiah Clark
+14,ContactSegment,Draft,2017-07-20,David Laberge,REPORTING - Contacts with last names starting with M,2019-01-15,14,David Laberge
+15,ContactSegment,Draft,2017-07-24,David Laberge,CSD_FY17_AU_DB_AF-14- 20170722 - SamplePrep_Email,2017-07-24,14,David Laberge
+16,ContactSegment,Draft,2017-07-24,Jeremiah Clark,SYSTEM - LyrisSuppression,2017-12-18,14,David Laberge
+17,ContactSegment,Draft,2017-07-25,David Laberge,REPORTING: Emails that begin with bounce,2017-07-25,14,David Laberge
+18,ContactSegment,Draft,2017-07-25,David Laberge,REPORTING: Contacts with duplicate flag <1,2017-07-25,14,David Laberge
+19,ContactSegment,Draft,2017-07-25,David Laberge,REPORTING - All contacts not in SAP,2019-01-15,14,David Laberge
+20,ContactSegment,Draft,2017-07-26,Sandeep Rohilla,DuplicateContactCheck,2017-07-26,10,Sandeep Rohilla
+21,ContactSegment,Draft,2017-07-29,David Laberge,CSD_FY17_AU_DB_AF-15-email,2017-07-29,14,David Laberge
+24,ContactSegment,Draft,2017-08-02,Jeremiah Clark,CSD_FY17_AU_DB_AF-11-20170729-LC_Email,2017-08-21,23,Jeremiah Clark
+25,ContactSegment,Draft,2017-08-02,Jeremiah Clark,CSD_FY17_AU_DB_AF-17-20170729-GC_Email,2017-08-18,23,Jeremiah Clark
+26,ContactSegment,Draft,2017-08-02,Jeremiah Clark,CSD_FY17_AU_DB_AF-15-20170729-Spectroscopy_Email,2017-08-16,23,Jeremiah Clark
+27,ContactSegment,Draft,2017-08-03,David Laberge,REPORTING: IP Warming counts,2017-08-15,14,David Laberge
+28,ContactSegment,Draft,2017-08-22,David Laberge,REPORTING: Globally Unsubscribed,2019-08-22,14,David Laberge
+29,ContactSegment,Draft,2017-08-25,David Laberge,REPORTING:20170824-SSD_17_AU-ENL_AF_20170715-USonly-EMAIL,2017-08-25,14,David Laberge
+30,ContactSegment,Draft,2017-08-25,Jeremiah Clark,SSD_17_AU-ENL_AF-02_20170828_Email,2017-08-25,23,Jeremiah Clark
+31,ContactSegment,Draft,2017-08-25,David Laberge,SSD_17_AU-ENL_AF_20170715,2017-08-25,14,David Laberge
+32,ContactSegment,Draft,2017-08-25,David Laberge,REPORTING: Bounceback Analysis and Source,2019-04-09,14,David Laberge
+33,ContactSegment,Draft,2017-09-07,David Laberge,REPORTING - Contact Record Fields Count,2017-09-08,14,David Laberge
+34,ContactSegment,Draft,2017-09-18,David Laberge,CSD_17_GCUISLEL_AF_20170831,2017-09-26,23,Jeremiah Clark
+35,ContactSegment,Draft,2017-09-22,Richelle Shaffer,REPORTING - Bounced Email Address,2019-01-15,14,David Laberge
+36,ContactSegment,Draft,2017-09-22,Richelle Shaffer,REPORTING - Has multiple email count,2019-01-15,14,David Laberge
+37,ContactSegment,Draft,2017-09-27,Jeremiah Clark,CSD_17_GCUISLEL_AF_20170831_SEED,2017-09-27,23,Jeremiah Clark
+38,ContactSegment,Draft,2017-10-03,Jeremiah Clark,SeedList_Test,2017-10-03,23,Jeremiah Clark
+39,ContactSegment,Draft,2017-10-10,Jeremiah Clark,SSD_17_AU-ENL_AF_20171011_Office 365,2017-11-15,Null,Null
+40,ContactSegment,Draft,2017-10-10,Jeremiah Clark,SSD_17_AU_ENL_AF-03_20171011_NonOffice365,2017-10-11,23,Jeremiah Clark
+41,ContactSegment,Draft,2017-10-11,David Laberge,REPORTING - Lead Score = A1 Pass Through model,2017-10-11,14,David Laberge
+42,ContactSegment,Draft,2017-10-13,Manjunath KM,Contact contains  Bounce% count,2017-10-14,31,Manjunath KM
+45,ContactSegment,Draft,2017-10-13,David Laberge,REPORTING SAP Bouncebacks begining with bounce,2017-10-13,14,David Laberge
+49,ContactSegment,Draft,2017-10-14,David Laberge,REPORTING - Email adddress,2017-10-14,14,David Laberge
+52,ContactSegment,Draft,2017-10-15,Null,Aravind,2018-03-17,Null,Null
+53,ContactSegment,Draft,2017-10-16,Manjunath KM,Purchase Hstry Contact,2017-10-16,31,Manjunath KM
+54,ContactSegment,Draft,2017-10-17,Manjunath KM,Mary_ACcountRole,2017-10-17,31,Manjunath KM
+55,ContactSegment,Draft,2017-10-20,Null,Office 365,2017-10-24,Null,Null
+56,ContactSegment,Draft,2017-10-23,Richelle Shaffer,Account Country,2017-10-23,24,Richelle Shaffer
+57,ContactSegment,Draft,2017-11-07,Null,SSD_17_EQ-AU_ENL_AF-01_NonOffice 365,2017-11-15,14,David Laberge
+58,ContactSegment,Draft,2017-11-13,Manjunath KM,lINKED aCCOUNTS,2017-11-13,31,Manjunath KM
+60,ContactSegment,Draft,2017-11-13,Null,SSD_17_EQ-AU_N-A_AF_ListImport,2017-11-15,14,David Laberge
+61,ContactSegment,Draft,2017-11-13,Null,SSD_17_EQ-AU_N-B_AF_ListImport,2017-11-15,14,David Laberge
+62,ContactSegment,Draft,2017-11-13,David Laberge,SSD_17_AU-ENL_AF_20171011_Office 365 : Copy,2017-11-13,14,David Laberge
+63,ContactSegment,Draft,2017-11-14,Null,SSD_17_EQ-AU_FC_20171103_Registration,2017-11-14,Null,Null
+64,ContactSegment,Draft,2017-11-14,David Laberge,TEST - DCL Office 365,2017-11-15,14,David Laberge
+65,ContactSegment,Draft,2017-11-15,Null,SSD_17_EQ-AU_ENL_AF-01_Office 365,2017-11-15,14,David Laberge
+66,ContactSegment,Draft,2017-11-16,Monica Handwerger,SSD_17_EQ-AU_ENL_seedlist_AF,2017-11-16,27,Monica Handwerger
+69,ContactSegment,Draft,2017-11-30,David Laberge,REPORTING: Address blank-preferred address not blank,2017-11-30,14,David Laberge
+70,ContactSegment,Draft,2017-12-01,Brian Goodwin,Marketing Qualified Lead,2018-02-27,35,Brian Goodwin
+71,ContactSegment,Draft,2017-12-01,David Laberge,ATO_17_ATOweb_SE_AF-8,2017-12-01,14,David Laberge
+72,ContactSegment,Draft,2017-12-04,Michael Mcgonigal,ATO_17_ATOWEB_SE_AF-8,2017-12-04,25,Michael Mcgonigal
+73,ContactSegment,Draft,2017-12-04,Michael Mcgonigal,CSD_FY17_AU_DB_AF-09-20171205-GC-Forensic-App-Note_multi,2017-12-04,25,Michael Mcgonigal
+74,ContactSegment,Draft,2017-12-05,Michael Mcgonigal,CSD_FY17_AU_DB_AF-09,2017-12-05,25,Michael Mcgonigal
+75,ContactSegment,Draft,2017-12-06,Michael Mcgonigal,89_1701_9730_EP_AF-3,2017-12-06,25,Michael Mcgonigal
+76,ContactSegment,Draft,2017-12-06,Michael Mcgonigal,AFO_18_Regional_AF-01,2017-12-18,25,Michael Mcgonigal
+77,ContactSegment,Draft,2017-12-11,David Laberge,REPORTING: Contacts with Multi contact Account ID contact plus CDOs,2017-12-11,14,David Laberge
+78,ContactSegment,Draft,2017-12-11,David Laberge,REPORTING - SSD_17_EQ-AU form submits segments,2017-12-11,14,David Laberge
+79,ContactSegment,Draft,2017-12-13,Michael Mcgonigal,V1_1801_FEDYK_SE_AF2,2017-12-13,25,Michael Mcgonigal
+80,ContactSegment,Draft,2017-12-18,Michael Mcgonigal,FOR_17_SOFT-TIAFT_EX_AF,2017-12-18,25,Michael Mcgonigal
+81,ContactSegment,Draft,2017-12-18,Sandeep Rohilla,test-segment-remove-later,2018-04-10,10,Sandeep Rohilla
+82,ContactSegment,Draft,2017-12-28,Michael Mcgonigal,PAN_1802_SLAS_EX_AF,2018-01-22,25,Michael Mcgonigal
+83,ContactSegment,Draft,2018-01-04,Michael Mcgonigal,BIO_FY17_GOLDT_AFO-01,2018-01-04,25,Michael Mcgonigal
+84,ContactSegment,Draft,2018-01-05,Michael Mcgonigal,DGG_1709_SSXTHS_EM,2018-01-05,25,Michael Mcgonigal
+85,ContactSegment,Draft,2018-01-06,David Laberge,REPORTING - Missing Markeitng Attribute Contacts,2018-01-06,14,David Laberge
+86,ContactSegment,Draft,2018-01-11,Monica Handwerger,ATO_FY18_OES_ENVLM_LT_LM Form Submitters,2018-07-20,41,Julia Pavlovski
+87,ContactSegment,Draft,2018-01-11,Michael Mcgonigal,CSD_FY18_AMAZON_AF-02,2018-01-11,25,Michael Mcgonigal
+88,ContactSegment,Draft,2018-01-12,Michael Mcgonigal,CSD_FY18_LC_ES_AF,2018-01-12,25,Michael Mcgonigal
+89,ContactSegment,Draft,2018-01-12,Michael Mcgonigal,CSD_FY18_GC_ES_AF,2018-01-12,25,Michael Mcgonigal
+90,ContactSegment,Draft,2018-01-17,Michael Mcgonigal,LED_FY18_COMPL_SE_AF-01,2018-01-17,25,Michael Mcgonigal
+91,ContactSegment,Draft,2018-01-29,David Laberge,TEST - EXAMPLE,2018-01-29,14,David Laberge
+92,ContactSegment,Draft,2018-01-30,Michael Mcgonigal,MA_FY18_MAWEB_ES_AF-03,2018-02-01,25,Michael Mcgonigal
+93,ContactSegment,Draft,2018-01-30,Michael Mcgonigal,CSD_FY18_GC_ES_AF_02,2018-01-30,25,Michael Mcgonigal
+94,ContactSegment,Draft,2018-01-30,Michael Mcgonigal,CSD_FY18_LC_ES_AF_02,2018-01-30,25,Michael Mcgonigal
+95,ContactSegment,Draft,2018-01-31,Michael Mcgonigal,AFO_18_ATOWEB_ES_AF-02,2018-02-01,25,Michael Mcgonigal
+96,ContactSegment,Draft,2018-02-05,MgrAgilent,hardbounce test,2018-02-05,8,MgrAgilent
+97,ContactSegment,Draft,2018-02-06,Michael Mcgonigal,DGG_1802_AIRA_EM_AF,2018-02-06,25,Michael Mcgonigal
+98,ContactSegment,Draft,2018-02-06,Michael Mcgonigal,89_1803_MHWEB_ES_AF,2018-03-27,25,Michael Mcgonigal
+99,ContactSegment,Draft,2018-02-12,Michael Mcgonigal,89_1801_ULTIVO_SE_AF-06-07-08,2018-02-12,25,Michael Mcgonigal
+100,ContactSegment,Draft,2018-02-12,Michael Mcgonigal,89_1801_ULTIVO_SE_AF-05,2018-02-15,25,Michael Mcgonigal
+101,ContactSegment,Draft,2018-02-15,Michael Mcgonigal,DGG_1803_SSXT_ES_WW,2018-02-15,25,Michael Mcgonigal
+102,ContactSegment,Draft,2018-02-20,Michael Mcgonigal,PAN_1806_ASMS_EX_AF-07,2018-02-20,25,Michael Mcgonigal
+103,ContactSegment,Draft,2018-02-21,Michael Mcgonigal,DGG_1802_V7EXOME_EM_AF,2018-02-21,25,Michael Mcgonigal
+104,ContactSegment,Draft,2018-02-22,Michael Mcgonigal,MA_FY18_MAWEB_ES_AF-03-20180228,2018-02-22,25,Michael Mcgonigal
+105,ContactSegment,Draft,2018-02-22,Michael Mcgonigal,89_1801_MASSHUN_SE_AF-06-07-20180228,2018-02-22,25,Michael Mcgonigal
+106,ContactSegment,Draft,2018-02-22,Michael Mcgonigal,CSD_FY18_LC_ES_AF_02-20180301,2018-02-22,25,Michael Mcgonigal
+107,ContactSegment,Draft,2018-02-22,Michael Mcgonigal,ATO_18_ATOWEB_ES_AF-02-20180301,2018-02-22,25,Michael Mcgonigal
+108,ContactSegment,Draft,2018-02-26,Manjunath KM,without CI and AID,2018-02-27,31,Manjunath KM
+109,ContactSegment,Draft,2018-02-26,Monica Handwerger,TPG Test Segment,2018-03-14,27,Monica Handwerger
+110,ContactSegment,Draft,2018-02-27,Brian Goodwin,Test - Segment From PDF Page Tag - BG,2018-11-10,35,Brian Goodwin
+111,ContactSegment,Draft,2018-02-27,Brian Goodwin,Known,2018-02-27,35,Brian Goodwin
+112,ContactSegment,Draft,2018-02-28,David Laberge,REPORTING: Contacts without Marketing Attributes,2018-02-28,14,David Laberge
+113,ContactSegment,Draft,2018-02-28,Michael Mcgonigal,PAN_1806_ASMS_EX_AF-20180306,2018-02-28,25,Michael Mcgonigal
+114,ContactSegment,Draft,2018-02-28,Michael Mcgonigal,CSD_FY18_GC_ES_AF-2018-03-06,2018-08-01,25,Michael Mcgonigal
+115,ContactSegment,Draft,2018-02-28,Michael Mcgonigal,DGG_1803_GENOMEWEB_ES_AF-2018-03-07,2018-02-28,25,Michael Mcgonigal
+116,ContactSegment,Draft,2018-02-28,Michael Mcgonigal,LED_18_MVIS-UNCVR_EP_AF-2018-03-08,2018-02-28,25,Michael Mcgonigal
+117,ContactSegment,Draft,2018-02-28,Brian Goodwin,GC-Test,2018-02-28,35,Brian Goodwin
+118,ContactSegment,Draft,2018-03-01,David Laberge,TEST - Campaign Member MA_FY18_MAWEB_ES_AF-03-20180201-Webinar_Series_multi,2018-03-01,14,David Laberge
+120,ContactSegment,Draft,2018-03-06,David Laberge,REPORTING: Shared Info,2018-03-06,14,David Laberge
+121,ContactSegment,Draft,2018-03-07,Michael Mcgonigal,DGG_1802_RNADirect_EM_AF-2018-03-14,2018-03-07,25,Michael Mcgonigal
+122,ContactSegment,Draft,2018-03-08,Michael Mcgonigal,DGG_1802_PCRMINI_EM_AF-2018-03-14,2018-03-08,25,Michael Mcgonigal
+123,ContactSegment,Draft,2018-03-10,Manjunath KM,shared winner with X,2018-03-19,31,Manjunath KM
+125,ContactSegment,Draft,2018-03-10,David Laberge,REPORTING - SharedWinner - No Country,2018-03-10,14,David Laberge
+126,ContactSegment,Draft,2018-03-10,David Laberge,REPORTING - SharedWinner - No Country Contact Plus,2018-03-10,14,David Laberge
+127,ContactSegment,Draft,2018-03-10,David Laberge,REPORTING: NotShared & First Name blank,2018-03-10,14,David Laberge
+128,ContactSegment,Draft,2018-03-12,Michael Mcgonigal,PLAZ_1508_6890RPMT_AF_ENERGY-2018-03-20,2018-03-12,25,Michael Mcgonigal
+129,ContactSegment,Draft,2018-03-12,Michael Mcgonigal,PLAZ_1508_6890RPMT_AF_ENVIRO-2018-03-20,2018-03-12,25,Michael Mcgonigal
+130,ContactSegment,Draft,2018-03-12,Michael Mcgonigal,PLAZ_1508_6890RPMT_AF_FOOD-2018-03-20,2018-03-12,25,Michael Mcgonigal
+131,ContactSegment,Draft,2018-03-12,Michael Mcgonigal,PLAZ_1508_6890RPMT_AF_PHARMA-2018-03-22,2018-03-12,25,Michael Mcgonigal
+132,ContactSegment,Draft,2018-03-12,Monica Handwerger,ATO_FY18_OES_ENVLM_LT_CRM List,2018-03-27,42,Cody Whittington
+133,ContactSegment,Draft,2018-03-12,Monica Handwerger,ATO_FY18_OES_ENVLM_LT_Seed List,2018-03-27,42,Cody Whittington
+134,ContactSegment,Draft,2018-03-13,Michael Mcgonigal,CSD_FY18_GC_ES_AF-04-2018-03-22,2018-03-13,25,Michael Mcgonigal
+135,ContactSegment,Draft,2018-03-13,Michael Mcgonigal,CSD_FY18_LC_ES_AF-04-2018-03-21,2018-03-13,25,Michael Mcgonigal
+137,ContactSegment,Draft,2018-03-14,Michael Mcgonigal,DGG_1804_ACMG_EX_AF-2018-03-20,2018-03-14,25,Michael Mcgonigal
+138,ContactSegment,Draft,2018-03-16,David Laberge,TESTING - iLABs Page Tag Feeder,2018-03-16,14,David Laberge
+139,ContactSegment,Draft,2018-03-17,Null,test,2018-06-28,31,Manjunath KM
+140,ContactSegment,Draft,2018-03-20,Manjunath KM,AccountID_check,2018-05-02,31,Manjunath KM
+141,ContactSegment,Draft,2018-03-20,Michael Mcgonigal,DGG_1804_AML_ES_WW,2018-03-20,25,Michael Mcgonigal
+142,ContactSegment,Draft,2018-03-20,Cody Whittington,test,2018-03-20,42,Cody Whittington
+144,ContactSegment,Draft,2018-03-21,Andy Brotherton,REPORTING: Lead Score Results,2018-03-21,43,Andy Brotherton
+145,ContactSegment,Draft,2018-03-21,David Laberge,REPORTING - GC Outbound list analysis,2018-03-27,14,David Laberge
+146,ContactSegment,Draft,2018-03-22,David Laberge,REPORTING - Possible Cookied Contacts,2018-03-22,14,David Laberge
+147,ContactSegment,Draft,2018-03-22,David Laberge,REPORTING - Contact Industry=blank and has Mktg Attribute Industry record,2018-03-22,14,David Laberge
+148,ContactSegment,Draft,2018-03-26,Manjunath KM,Testing,2018-03-26,31,Manjunath KM
+149,ContactSegment,Draft,2018-03-26,David Laberge,Contacts with complete Contact Data,2018-03-26,14,David Laberge
+150,ContactSegment,Draft,2018-03-26,David Laberge,REPORTING - Incomplete contacts,2018-03-26,14,David Laberge
+151,ContactSegment,Draft,2018-03-26,David Laberge,Contact Complete w/o Contact Complete Date,2018-03-26,14,David Laberge
+152,ContactSegment,Draft,2018-03-26,David Laberge,REPORTING - External Events Contact Analysis,2018-03-28,14,David Laberge
+153,ContactSegment,Draft,2018-03-27,Michael Mcgonigal,DGG_1805_NGSPA_ES_WW,2018-03-27,25,Michael Mcgonigal
+154,ContactSegment,Draft,2018-03-27,Michael Mcgonigal,MA_FY18_MAWEB_ES_AF-07,2018-03-27,25,Michael Mcgonigal
+155,ContactSegment,Draft,2018-03-27,Michael Mcgonigal,89_1801_MASSHUN_SE_AF-08-09,2018-03-27,25,Michael Mcgonigal
+156,ContactSegment,Draft,2018-03-27,Michael Mcgonigal,DGG_1803_GENSURWEB_ES_WW,2018-03-27,25,Michael Mcgonigal
+157,ContactSegment,Draft,2018-03-27,Michael Mcgonigal,89_1801_ULTIVO_SE_AF-12-13,2018-06-11,25,Michael Mcgonigal
+158,ContactSegment,Draft,2018-03-27,David Laberge,REPORTING: Contacts who have submitted GoldCase forms,2018-03-27,14,David Laberge
+159,ContactSegment,Draft,2018-03-29,Michael Mcgonigal,FOD_18_CANN_ES_AF,2018-03-29,25,Michael Mcgonigal
+160,ContactSegment,Draft,2018-04-04,David Laberge,REPORTING: Contacts who's Lead Score is different than Current Lead Score field,2018-04-04,14,David Laberge
+161,ContactSegment,Draft,2018-04-05,David Laberge,Untitled Segment,2018-04-05,14,David Laberge
+162,ContactSegment,Draft,2018-04-09,Michael Mcgonigal,CSD_FY18_LC_ES_AF-04-2018-04-11,2018-04-09,25,Michael Mcgonigal
+163,ContactSegment,Draft,2018-04-09,Michael Mcgonigal,ATO_18_ATOWEB_ES_AF-07-2018-04-12,2018-04-09,25,Michael Mcgonigal
+164,ContactSegment,Draft,2018-04-09,Michael Mcgonigal,PAN_1806_ASMS_EX_AF-2018-04-12,2018-04-09,25,Michael Mcgonigal
+165,ContactSegment,Draft,2018-04-10,Michael Mcgonigal,ACA_18_OMICS_SE_AF-03,2018-04-10,25,Michael Mcgonigal
+166,ContactSegment,Draft,2018-04-10,Michael Mcgonigal,89_1804_9730_EP_AF,2018-04-10,25,Michael Mcgonigal
+167,ContactSegment,Draft,2018-04-10,Michael Mcgonigal,89_1801_ULTIVO_SE_AF-14-15,2018-04-10,25,Michael Mcgonigal
+168,ContactSegment,Draft,2018-04-10,Michael Mcgonigal,89_1801_ULTIVO_SE_AF-09-10-11,2018-04-10,25,Michael Mcgonigal
+169,ContactSegment,Draft,2018-04-12,Julia Pavlovski,JP Test 20180412,2018-04-12,41,Julia Pavlovski
+171,ContactSegment,Draft,2018-04-13,David Laberge,REPORTING: Sent Emails in last month,2018-04-13,14,David Laberge
+172,ContactSegment,Draft,2018-04-13,David Laberge,REPORTING: Sent at Least 1 mail and unsubscribed since 1/1/2018,2018-04-13,14,David Laberge
+173,ContactSegment,Draft,2018-04-13,David Laberge,REPORT: Attended an External event in 2018,2018-08-03,14,David Laberge
+174,ContactSegment,Draft,2018-04-18,Michael Mcgonigal,FOD_18_CANN_ES_AF-2018-04-26,2018-04-18,25,Michael Mcgonigal
+175,ContactSegment,Draft,2018-04-18,Michael Mcgonigal,DGG_1804_AML_ES_WW2,2018-04-18,25,Michael Mcgonigal
+176,ContactSegment,Draft,2018-04-18,David Laberge,REPORTING: Clicked thru email but not submitted form but visited website,2018-04-18,14,David Laberge
+177,ContactSegment,Draft,2018-04-18,David Laberge,REPORTING: Contacts whose lead score changed in last 24 hours,2018-04-18,14,David Laberge
+178,ContactSegment,Draft,2018-04-23,Michael Mcgonigal,DGG_1803_ALTTECH_EM_AF-2018-04-25,2018-04-23,25,Michael Mcgonigal
+179,ContactSegment,Draft,2018-04-23,Michael Mcgonigal,DGG_1803_AFFYILLUM_EM_WW-2018-05-12,2018-04-23,25,Michael Mcgonigal
+180,ContactSegment,Draft,2018-04-23,Michael Mcgonigal,DGG_1803_GENSUREDX_EM_WW-2018-05-09,2018-04-23,25,Michael Mcgonigal
+181,ContactSegment,Draft,2018-04-23,Michael Mcgonigal,DGG_1805_V7WEB_ES_WW-2018-05-08,2018-04-23,25,Michael Mcgonigal
+182,ContactSegment,Draft,2018-04-30,Michael Mcgonigal,MA_FY18_MAWEB_ES_AF-08-2018-05-02,2018-04-30,25,Michael Mcgonigal
+183,ContactSegment,Draft,2018-04-30,Michael Mcgonigal,DGG_1805_SPRAUTO_EM_AF,2018-04-30,25,Michael Mcgonigal
+184,ContactSegment,Draft,2018-04-30,David Laberge,TEST - INERT FLOW,2018-04-30,14,David Laberge
+185,ContactSegment,Draft,2018-04-30,David Laberge,TEST =- Contacts and Contact Plus,2018-04-30,14,David Laberge
+186,ContactSegment,Draft,2018-04-30,David Laberge,TEST ACCOUNTS FOR CONTACT AND CONTACT PLUS,2018-04-30,14,David Laberge
+187,ContactSegment,Draft,2018-05-02,David Laberge,TEST - INERT FLOW v2 - Contact Plus that match Acct PL,2018-05-02,14,David Laberge
+188,ContactSegment,Draft,2018-05-08,Michael Mcgonigal,ACA_18_OMICS_SE_AF-04,2018-05-08,25,Michael Mcgonigal
+189,ContactSegment,Draft,2018-05-08,Michael Mcgonigal,ACA_18_OMICS_SE_AF-05,2018-05-08,25,Michael Mcgonigal
+190,ContactSegment,Draft,2018-05-08,Michael Mcgonigal,CSD_18_SUPERH_SE_AF-A,2018-05-08,25,Michael Mcgonigal
+191,ContactSegment,Draft,2018-05-08,Michael Mcgonigal,CSD_18_SUPERH_SE_AF-B,2018-05-08,25,Michael Mcgonigal
+192,ContactSegment,Draft,2018-05-08,Michael Mcgonigal,DGG_1805_ISBER_EX_AF,2018-05-08,25,Michael Mcgonigal
+193,ContactSegment,Draft,2018-05-09,Julia Pavlovski,JP TPG - Profile Test,2018-05-09,41,Julia Pavlovski
+194,ContactSegment,Draft,2018-05-09,Julia Pavlovski,JP - GC1 Clicked Email Test,2018-06-01,41,Julia Pavlovski
+195,ContactSegment,Draft,2018-05-10,Michael Mcgonigal,ATO_1805_7500_EP_AF,2018-05-10,25,Michael Mcgonigal
+196,ContactSegment,Draft,2018-05-10,David Laberge,REPORTING - Globally Unsubscribed on March 31 - April  7 2018,2018-05-10,14,David Laberge
+197,ContactSegment,Draft,2018-05-14,Michael Mcgonigal,DGG_1806_PLUFNYC_SE_AF,2018-05-14,25,Michael Mcgonigal
+198,ContactSegment,Draft,2018-05-15,Michael Mcgonigal,DGG_1805_ALIGNCALL_ES_WW,2018-05-15,25,Michael Mcgonigal
+199,ContactSegment,Draft,2018-05-15,Michael Mcgonigal,29_FY18_1200LCREF_AF-02,2018-05-15,25,Michael Mcgonigal
+200,ContactSegment,Draft,2018-05-15,Michael Mcgonigal,CSD_18_SUPERH_SE_AF-01,2018-05-23,25,Michael Mcgonigal
+201,ContactSegment,Draft,2018-05-15,Michael Mcgonigal,CSD_18_SUPERH_SE_AF-02,2018-05-23,25,Michael Mcgonigal
+202,ContactSegment,Draft,2018-05-16,Julia Pavlovski,JP - External Activity Test,2018-05-16,41,Julia Pavlovski
+203,ContactSegment,Draft,2018-05-16,Michael Mcgonigal,89_1801_MASSHUN_SE_AF-06,2018-05-16,25,Michael Mcgonigal
+204,ContactSegment,Draft,2018-05-16,Michael Mcgonigal,89_1801_MASSHUN_SE_AF-10-11,2018-05-16,25,Michael Mcgonigal
+205,ContactSegment,Draft,2018-05-17,Michael Mcgonigal,SSD_18_CONNECT_SE_AF,2018-05-17,25,Michael Mcgonigal
+206,ContactSegment,Draft,2018-05-30,Michael Mcgonigal,MA_1806_PHARM_EP_AF,2018-05-30,25,Michael Mcgonigal
+207,ContactSegment,Draft,2018-05-31,Michael Mcgonigal,CSD_FY18_LC_ES_AF-06,2018-05-31,25,Michael Mcgonigal
+208,ContactSegment,Draft,2018-06-01,Michael Mcgonigal,ATO_18_ATOWEB_ES_AF-11,2018-06-01,25,Michael Mcgonigal
+209,ContactSegment,Draft,2018-06-04,Michael Mcgonigal,DGG_1805_ISBER_EX_AF-01,2018-06-04,25,Michael Mcgonigal
+210,ContactSegment,Draft,2018-06-05,Julia Pavlovski,JP TPG - Linked CDO in Marketing Attributes,2018-06-05,41,Julia Pavlovski
+211,ContactSegment,Draft,2018-06-05,Michael Mcgonigal,DGG_1806_GENSPRGX_ES_WW,2018-06-05,25,Michael Mcgonigal
+212,ContactSegment,Draft,2018-06-05,Julia Pavlovski,JP TPG - Score Stamp Test - Values in Contact and CDO,2018-06-05,41,Julia Pavlovski
+213,ContactSegment,Draft,2018-06-05,Julia Pavlovski,JP TPG - Score Stamp Test Segment,2018-06-07,41,Julia Pavlovski
+214,ContactSegment,Draft,2018-06-05,Julia Pavlovski,JP TPG - Campaign Responses Test,2018-06-05,41,Julia Pavlovski
+215,ContactSegment,Draft,2018-06-06,Michael Mcgonigal,CSD_18_SUPERH_SE_AF-03-04,2018-06-11,25,Michael Mcgonigal
+216,ContactSegment,Draft,2018-06-11,Michael Mcgonigal,LED_18_MVIS-EM_EP_AF,2018-06-11,25,Michael Mcgonigal
+217,ContactSegment,Draft,2018-06-12,Michael Mcgonigal,SSD_FY18_AUNIV_EP_AF-02,2018-06-12,25,Michael Mcgonigal
+218,ContactSegment,Draft,2018-06-12,Michael Mcgonigal,CSD_18_SUPERH_SE_AF-05-06-07,2018-06-19,25,Michael Mcgonigal
+219,ContactSegment,Draft,2018-06-13,Michael Mcgonigal,ACA_18_TECH_SE_AF,2018-06-13,25,Michael Mcgonigal
+220,ContactSegment,Draft,2018-06-14,Michael Mcgonigal,VPD_18_AGRYEPRO_AF,2018-06-14,25,Michael Mcgonigal
+221,ContactSegment,Draft,2018-06-14,Michael Mcgonigal,DGG_1805_ALIGNCALL_ES_WW,2018-06-14,25,Michael Mcgonigal
+222,ContactSegment,Draft,2018-06-18,Michael Mcgonigal,DGG_1805_SSAPP_EP_WW,2018-06-18,25,Michael Mcgonigal
+224,ContactSegment,Draft,2018-06-20,Michael Mcgonigal,PAN_1806_ASMS_EX_AF-12,2018-06-20,25,Michael Mcgonigal
+225,ContactSegment,Draft,2018-06-20,Michael Mcgonigal,DGG_1802_PCRMINI_AF-02,2018-06-20,25,Michael Mcgonigal
+226,ContactSegment,Draft,2018-06-20,David Laberge,DCL Segment Members,2024-05-03,14,David Laberge
+227,ContactSegment,Draft,2018-06-22,Julia Pavlovski,SYSTEM - Job Function/Level/Industry Lead Score Stamp - ADD ALL CONTACTS,2018-06-22,41,Julia Pavlovski
+228,ContactSegment,Draft,2018-06-22,David Laberge,REPORTING: Partial EMEA Contacts w Mkt Attriute Records,2018-06-22,14,David Laberge
+229,ContactSegment,Draft,2018-06-22,David Laberge,REPORTING: GC1 Contacts sent Email 1 who have Lead Score in threshold,2018-06-25,14,David Laberge
+230,ContactSegment,Draft,2018-06-25,Michael Mcgonigal,DGG_1805_MASTR_SP_EM-01,2018-06-25,25,Michael Mcgonigal
+231,ContactSegment,Draft,2018-06-25,Michael Mcgonigal,DGG_1805_MASTR_SP_EM-02,2018-06-25,25,Michael Mcgonigal
+232,ContactSegment,Draft,2018-06-25,Michael Mcgonigal,DGG_1805_MASTR_SP_EM-03,2018-06-25,25,Michael Mcgonigal
+233,ContactSegment,Draft,2018-06-25,Michael Mcgonigal,DGG_1805_MASTR_SP_EM-04,2018-06-25,25,Michael Mcgonigal
+234,ContactSegment,Draft,2018-06-26,Michael Mcgonigal,BIO_1807_CMP_ES_AF,2018-06-26,25,Michael Mcgonigal
+236,ContactSegment,Draft,2018-07-03,Michael Mcgonigal,LED_FY18_ACADBMS_AF,2018-07-03,25,Michael Mcgonigal
+237,ContactSegment,Draft,2018-07-03,Michael Mcgonigal,CSD_FY18_LC_ES_AF-07,2018-07-03,25,Michael Mcgonigal
+238,ContactSegment,Draft,2018-07-10,Julia Pavlovski,JP TPG - DB Stats,2018-07-11,41,Julia Pavlovski
+239,ContactSegment,Draft,2018-07-10,Michael Mcgonigal,FOD_18_CANN_ES_AF-04,2018-07-10,25,Michael Mcgonigal
+240,ContactSegment,Draft,2018-07-11,Michael Mcgonigal,ACA_18_CMS_EDU_AF,2018-08-17,25,Michael Mcgonigal
+241,ContactSegment,Draft,2018-07-16,Michael Mcgonigal,MA_1807_CARY456_EP_AF,2018-07-16,25,Michael Mcgonigal
+242,ContactSegment,Draft,2018-07-16,Michael Mcgonigal,ENV_1807_ENVREG_EP_AF,2018-07-24,25,Michael Mcgonigal
+243,ContactSegment,Draft,2018-07-16,Michael Mcgonigal,DGG_1807_PLUFTX_SE_AF,2018-07-16,25,Michael Mcgonigal
+245,ContactSegment,Draft,2018-07-24,David Laberge,TEST - AT2,2018-09-09,14,David Laberge
+246,ContactSegment,Draft,2018-07-25,Michael Mcgonigal,DGG_1808_PLUFPHL_SE_AF,2018-07-25,25,Michael Mcgonigal
+248,ContactSegment,Draft,2018-07-30,Michael Mcgonigal,CSD_18_SUPERH_SE_AF-08,2018-08-14,25,Michael Mcgonigal
+251,ContactSegment,Draft,2018-08-07,Michael Mcgonigal,89_1801_MASSHUN_SE_AF-12-13-14,2018-08-07,25,Michael Mcgonigal
+252,ContactSegment,Draft,2018-08-07,Michael Mcgonigal,CSD_FY18_LC_ES_AF-08,2018-08-07,25,Michael Mcgonigal
+253,ContactSegment,Draft,2018-08-08,Michael Mcgonigal,LED_FY18_COMPL_SE_AF-04,2018-08-08,25,Michael Mcgonigal
+254,ContactSegment,Draft,2018-08-08,Michael Mcgonigal,DGG_1809_PLUFCHI_SE_AF,2018-08-08,25,Michael Mcgonigal
+255,ContactSegment,Draft,2018-08-08,David Laberge,REPORTING - ERFQ last 2 months,2019-01-15,14,David Laberge
+256,ContactSegment,Draft,2018-08-14,Michael Mcgonigal,CSD_18_SUPERH_SE_AF-09,2018-08-14,25,Michael Mcgonigal
+257,ContactSegment,Draft,2018-08-16,Michael Mcgonigal,ACA_18_CMS_EDU_AF-02,2018-08-16,25,Michael Mcgonigal
+258,ContactSegment,Draft,2018-08-20,Michael Mcgonigal,DGG_1809_AUTOBAY_SE_AF,2018-09-04,25,Michael Mcgonigal
+259,ContactSegment,Draft,2018-08-21,Lindsay Chu,SSD_18_CONNECT_SE_AF-2,2018-08-21,51,Lindsay Chu
+260,ContactSegment,Draft,2018-08-21,Lindsay Chu,FOD_18_AOAC_EX_AF-Post,2018-08-21,51,Lindsay Chu
+261,ContactSegment,Draft,2018-08-23,Lindsay Chu,VPD_18_AGRYEPRO_AF-06,2018-08-24,51,Lindsay Chu
+262,ContactSegment,Draft,2018-08-23,David Laberge,Reporting: ERFQ Form Submits,2018-08-23,14,David Laberge
+263,ContactSegment,Draft,2018-08-29,Michael Mcgonigal,DGG_1806_SUMPROM_SP_AF-06,2018-08-29,25,Michael Mcgonigal
+264,ContactSegment,Draft,2018-08-29,Lindsay Chu,VPD_18_AGRYEPRO_AF-07,2018-08-29,51,Lindsay Chu
+265,ContactSegment,Draft,2018-08-29,Lindsay Chu,DGG_1809_NGSOTNYC_SE_AF,2018-08-29,51,Lindsay Chu
+266,ContactSegment,Draft,2018-08-30,Lindsay Chu,CSD_FY18_LC_ES_AF-09,2018-08-30,51,Lindsay Chu
+268,ContactSegment,Draft,2018-09-05,Lindsay Chu,DGG_1810_XTHSEDM_EP_WW,2018-09-05,51,Lindsay Chu
+269,ContactSegment,Draft,2018-09-05,Lindsay Chu,DGG_1810_ASHG_EX_AF,2018-09-05,51,Lindsay Chu
+270,ContactSegment,Active,2018-09-07,Manjunath KM,Glb Sub for SharedWinner Contact,2018-09-07,31,Manjunath KM
+271,ContactSegment,Draft,2018-09-07,Lindsay Chu,ATO_FY18_SEMICONEB_AF-01,2018-09-07,51,Lindsay Chu
+273,ContactSegment,Draft,2018-09-07,Lindsay Chu,MA_FY18_MAWEB_ES_AF-14,2018-09-07,51,Lindsay Chu
+274,ContactSegment,Draft,2018-09-07,Lindsay Chu,ATO_18_ATOWEB_ES_AF-19,2018-09-07,51,Lindsay Chu
+275,ContactSegment,Draft,2018-09-07,Lindsay Chu,CSD_FY18_BIOCOLUMN_AF-01,2018-09-07,51,Lindsay Chu
+276,ContactSegment,Draft,2018-09-08,David Laberge,REPORTING: OPT-In  OPT-Out groups,2018-09-08,14,David Laberge
+277,ContactSegment,Draft,2018-09-09,David Laberge,"REPORTING  - ACT FIELDS Not BLANK, US, OR CA",2018-09-09,14,David Laberge
+278,ContactSegment,Draft,2018-09-13,David Laberge,REPORTING:  Contacts with Purchase History Records,2018-09-13,14,David Laberge
+279,ContactSegment,Draft,2018-09-13,Lindsay Chu,ACA_18_EXPOSOM_SE_AF,2018-09-13,51,Lindsay Chu
+280,ContactSegment,Draft,2018-09-13,Lindsay Chu,ACA_18_CMS_EDU_AF-03,2018-09-13,51,Lindsay Chu
+281,ContactSegment,Draft,2018-09-13,David Laberge,REPORTING:  GC2 Purchase History,2018-09-13,14,David Laberge
+282,ContactSegment,Draft,2018-09-17,Lindsay Chu,SSD_18_CONNECT_SE_AF-2_W2,2018-09-17,51,Lindsay Chu
+283,ContactSegment,Draft,2018-09-18,David Laberge,TEST - AT2 : Copy,2018-09-19,14,David Laberge
+284,ContactSegment,Draft,2018-09-21,Lindsay Chu,MA_18_FTIRACA_EP_AF,2018-09-21,51,Lindsay Chu
+285,ContactSegment,Draft,2018-09-27,Lindsay Chu,ACA_18_BSCI_BTEC_AF,2018-09-27,51,Lindsay Chu
+286,ContactSegment,Draft,2018-09-27,Lindsay Chu,89_1809_MORE_SE_AF-05,2018-10-03,51,Lindsay Chu
+287,ContactSegment,Draft,2018-09-28,David Laberge,REPORTING: Contacts Submitting ERFQ without Lead CDO last 3 days,2018-09-28,14,David Laberge
+288,ContactSegment,Draft,2018-09-28,Lindsay Chu,89_1809_MORE_SE_AF-09,2018-10-03,51,Lindsay Chu
+289,ContactSegment,Draft,2018-09-28,Lindsay Chu,89_1809_MORE_SE_AF-13,2018-10-03,51,Lindsay Chu
+290,ContactSegment,Draft,2018-10-01,David Laberge,REPORTING: University of Wisconsin Contacts,2018-10-01,14,David Laberge
+292,ContactSegment,Draft,2018-10-04,David Laberge,REPORTING: Salutation Field Values,2018-10-04,14,David Laberge
+293,ContactSegment,Draft,2018-10-04,David Laberge,REPORTING: Contacts Submitting ERFQ without Lead CDO last day,2018-10-04,14,David Laberge
+294,ContactSegment,Draft,2018-10-04,Lindsay Chu,LI_18_CLOUD_SE_AF-01-02,2018-10-04,51,Lindsay Chu
+295,ContactSegment,Draft,2018-10-05,MgrAgilent,sub/unsub test,2018-10-05,8,MgrAgilent
+296,ContactSegment,Draft,2018-10-05,Lindsay Chu,89_1809_MORE_SE_AF-10,2018-10-08,51,Lindsay Chu
+297,ContactSegment,Draft,2018-10-05,Lindsay Chu,89_1809_MORE_SE_AF-12,2018-10-08,51,Lindsay Chu
+298,ContactSegment,Draft,2018-10-05,Lindsay Chu,DGG_1811_AMP_EX_AF,2018-10-05,51,Lindsay Chu
+299,ContactSegment,Draft,2018-10-08,Lindsay Chu,DGG_1811_TARGETCAP_SE_AF,2018-10-08,51,Lindsay Chu
+300,ContactSegment,Draft,2018-10-08,Lindsay Chu,DGG_1811_PLUFHOU_SE_AF,2018-10-08,51,Lindsay Chu
+301,ContactSegment,Draft,2018-10-09,Chitrapu Viswadha,contacts_10_8_18,2018-10-09,46,Chitrapu Viswadha
+302,ContactSegment,Draft,2018-10-09,Lindsay Chu,DGG_1809_ENZFRAG_EM_WW,2018-10-09,51,Lindsay Chu
+303,ContactSegment,Draft,2018-10-11,Lindsay Chu,DGG_1810_PATH_PRICING_US,2018-12-19,51,Lindsay Chu
+304,ContactSegment,Draft,2018-10-11,Julia Pavlovski,SYSTEM - CWM Modified Contacts Last 3 Months,2018-10-30,41,Julia Pavlovski
+306,ContactSegment,Draft,2018-10-15,Lindsay Chu,SSD_FY18_AUNIV_EP_AF-03,2018-10-23,51,Lindsay Chu
+307,ContactSegment,Draft,2018-10-15,Lindsay Chu,89_1809_MORE_SE_AF-04,2018-10-15,51,Lindsay Chu
+308,ContactSegment,Draft,2018-10-15,Lindsay Chu,ACA_18_CMS_EDU_AF-04,2018-10-15,51,Lindsay Chu
+309,ContactSegment,Draft,2018-10-16,Lindsay Chu,89_1809_MORE_SE_AF-14,2018-10-16,51,Lindsay Chu
+310,ContactSegment,Draft,2018-10-22,David Laberge,Reporting: AFO SW and Non AFO Contact Plus,2018-10-22,14,David Laberge
+311,ContactSegment,Draft,2018-10-25,Julia Pavlovski,TPG_TEST-Segment_Label-Assignment-Workflow_OCT2018,2018-10-25,41,Julia Pavlovski
+312,ContactSegment,Draft,2018-10-25,Julia Pavlovski,SYSTEM_Label-Assignment-Workflow_Contacts-Modified-Last-Week_OCT2018,2018-10-25,41,Julia Pavlovski
+313,ContactSegment,Draft,2018-10-29,Lindsay Chu,89_1809_MORE_SE_AF-11,2018-10-29,51,Lindsay Chu
+314,ContactSegment,Draft,2018-10-29,Lindsay Chu,89_1809_MORE_SE_AF-14_W2,2018-10-29,51,Lindsay Chu
+315,ContactSegment,Draft,2018-10-30,Lindsay Chu,ATO_18_ATOWEB_ES_AF-21,2018-10-30,51,Lindsay Chu
+316,ContactSegment,Draft,2018-10-30,Lindsay Chu,MA_FY18_MAWEB_ES_AF-15,2018-10-30,51,Lindsay Chu
+317,ContactSegment,Draft,2018-11-01,Lindsay Chu,CSD_FY18_GCMSSUP_AF-02,2018-11-01,51,Lindsay Chu
+318,ContactSegment,Draft,2018-11-01,Lindsay Chu,ACA_18_CMS_EDU_AF-05,2018-11-01,51,Lindsay Chu
+319,ContactSegment,Draft,2018-11-01,Lindsay Chu,DGG_1812_PLUFOMAHA_SE_AF,2018-11-01,51,Lindsay Chu
+320,ContactSegment,Draft,2018-11-01,Lindsay Chu,CSD_FY19_LC_ES_AF-01,2018-11-01,51,Lindsay Chu
+321,ContactSegment,Draft,2018-11-02,David Laberge,REPORTING Reporting - Clicked 29_FY18_1200LCREF_AF-02,2018-11-02,14,David Laberge
+322,ContactSegment,Draft,2018-11-05,Lindsay Chu,89_1809_MORE_SE_AF-06,2018-11-05,51,Lindsay Chu
+324,ContactSegment,Draft,2018-11-06,David Laberge,REPORTING: New AFO Contacts,2018-11-06,14,David Laberge
+325,ContactSegment,Draft,2018-11-06,Lindsay Chu,DGG_1811_BREXWEB_ES_WW,2018-11-06,51,Lindsay Chu
+326,ContactSegment,Draft,2018-11-12,Lindsay Chu,89_1809_MORE_SE_AF-17,2018-11-12,51,Lindsay Chu
+327,ContactSegment,Draft,2018-11-12,Lindsay Chu,89_1809_MORE_SE_AF-18,2018-11-12,51,Lindsay Chu
+328,ContactSegment,Draft,2018-11-15,Brian Goodwin,Test - New Contact Segment,2018-11-20,35,Brian Goodwin
+329,ContactSegment,Draft,2018-11-16,Lindsay Chu,ATO_18_ATOWEB_ES_AF-23,2018-11-16,51,Lindsay Chu
+330,ContactSegment,Draft,2018-11-16,Lindsay Chu,LED_19_MVSPROMO_EP_AF,2018-11-16,51,Lindsay Chu
+331,ContactSegment,Draft,2018-11-19,Manjunath KM,Bounceback,2018-12-06,31,Manjunath KM
+332,ContactSegment,Draft,2018-11-19,Brian Goodwin,Test - Contacts w/o First or Last Name,2018-11-19,35,Brian Goodwin
+333,ContactSegment,Draft,2018-11-19,Brian Goodwin,Test - Contact w/o First or Last - Recently Created,2018-11-19,35,Brian Goodwin
+334,ContactSegment,Draft,2018-11-23,Chitrapu Viswadha,acnt test,2018-11-23,46,Chitrapu Viswadha
+335,ContactSegment,Draft,2018-11-26,Chitrapu Viswadha,test123,2018-11-27,46,Chitrapu Viswadha
+336,ContactSegment,Draft,2018-11-26,Lindsay Chu,89_1809_MORE_SE_AF-17_W2,2018-11-26,51,Lindsay Chu
+337,ContactSegment,Draft,2018-11-26,Lindsay Chu,89_1809_MORE_SE_AF-18_W2,2018-11-26,51,Lindsay Chu
+338,ContactSegment,Draft,2018-11-26,Lindsay Chu,89_1809_MORE_SE_AF-08,2018-11-26,51,Lindsay Chu
+339,ContactSegment,Draft,2018-11-26,Lindsay Chu,DGG_1811_HRPMAGW2_WE_AF,2018-11-26,51,Lindsay Chu
+340,ContactSegment,Draft,2018-11-26,Lindsay Chu,DGG_1811_HRPMAGW2_WE_AF-2,2018-12-06,51,Lindsay Chu
+342,ContactSegment,Draft,2018-11-30,David Laberge,REPORTING: Hard BounceBack,2018-11-30,14,David Laberge
+343,ContactSegment,Draft,2018-12-03,Lindsay Chu,CSD_FY19_LC_ES_AF-02,2018-12-03,51,Lindsay Chu
+344,ContactSegment,Draft,2018-12-03,Lindsay Chu,DGG_1901_NGSTT_ES_WW,2018-12-03,51,Lindsay Chu
+345,ContactSegment,Draft,2018-12-04,David Laberge,REPORTING - LS High Value PT vistis 3 times within last month,2018-12-04,14,David Laberge
+347,ContactSegment,Draft,2018-12-06,Brian Goodwin,REPORTING - yahoo.com contacts,2019-01-15,14,David Laberge
+348,ContactSegment,Draft,2018-12-07,Lindsay Chu,DGG_1810_ACIDEMAND_ES_WW-AF,2018-12-07,51,Lindsay Chu
+350,ContactSegment,Draft,2018-12-10,Brian Goodwin,"PAN_FY19_Wel_AF-01_SYSTEM_Welcome - US, CA New Contacts Last 2 Weeks",2019-01-15,14,David Laberge
+351,ContactSegment,Draft,2018-12-10,Brian Goodwin,"PAN_FY19_Wel_AF-01_SYSTEM_Welcome - US, CA New Contacts Last 30 Days",2019-01-15,14,David Laberge
+352,ContactSegment,Draft,2018-12-10,Brian Goodwin,PAN_FY19_Wel_AF-01_SYSTEM_Welcome - New Non-CRM Contacts Last 7 Days,2019-01-15,14,David Laberge
+353,ContactSegment,Draft,2018-12-10,Brian Goodwin,REPORT- Email Opened - 6 Month Activity,2020-04-20,72,Bandita Lenka
+354,ContactSegment,Draft,2018-12-10,Brian Goodwin,"PAN_FY19_Wel_AF-01_SYSTEM_Welcome - US, CA New Contacts Since 20181212",2019-07-18,14,David Laberge
+355,ContactSegment,Draft,2018-12-11,Lindsay Chu,89_1809_MORE_SE_AF-03,2018-12-11,51,Lindsay Chu
+356,ContactSegment,Draft,2018-12-11,Lindsay Chu,DGG_1810_ACIDEMAND_ES_WW-AF-2,2019-01-11,51,Lindsay Chu
+357,ContactSegment,Draft,2018-12-12,David Laberge,PAN_FY19_Wel_AF-01_SYSTEM_Welcome - Seed List,2018-12-12,14,David Laberge
+358,ContactSegment,Draft,2018-12-12,Lindsay Chu,CSD_19_NY20_AF,2018-12-12,51,Lindsay Chu
+359,ContactSegment,Draft,2018-12-12,Lindsay Chu,PAN_1906_ASMS_EX_AF-01,2018-12-12,51,Lindsay Chu
+360,ContactSegment,Draft,2018-12-13,Brian Goodwin,Report - Contact Plus Test,2018-12-14,35,Brian Goodwin
+361,ContactSegment,Draft,2018-12-13,Lindsay Chu,DGG_1901_PAG_EX_AF,2018-12-13,51,Lindsay Chu
+362,ContactSegment,Draft,2018-12-13,Lindsay Chu,DGG_1901_PAG_EX_AF_W2,2019-01-08,51,Lindsay Chu
+363,ContactSegment,Draft,2018-12-13,Lindsay Chu,LED_19_COMPL_SE_AF,2018-12-13,51,Lindsay Chu
+365,ContactSegment,Draft,2018-12-17,Lindsay Chu,PAN_1902_SLAS_EX_AF,2018-12-17,51,Lindsay Chu
+366,ContactSegment,Draft,2018-12-18,David Laberge,REPORTING: ACT Country Not Blank,2018-12-18,14,David Laberge
+367,ContactSegment,Draft,2018-12-18,Lindsay Chu,DGG_1812_OMNISSAFE_EM_AF,2018-12-18,51,Lindsay Chu
+368,ContactSegment,Draft,2018-12-18,Lindsay Chu,DGG_1812_OMNISSAFE_EM_AF-2,2019-01-24,51,Lindsay Chu
+369,ContactSegment,Draft,2018-12-19,Lindsay Chu,DGG_1812_OMNISSAFE_EM_AF-seed,2018-12-19,51,Lindsay Chu
+370,ContactSegment,Draft,2018-12-19,Lindsay Chu,DGG_1810_PATH_PRICING_US,2018-12-19,51,Lindsay Chu
+371,ContactSegment,Draft,2018-12-19,Lindsay Chu,DGG_1810_PATH_PRICING_CA,2018-12-19,51,Lindsay Chu
+372,ContactSegment,Draft,2018-12-19,Lindsay Chu,DGG_1810_PATH_PRICING-seed,2018-12-19,51,Lindsay Chu
+373,ContactSegment,Draft,2018-12-20,Lindsay Chu,CSD_FY19_LC_ES_AF-03,2018-12-20,51,Lindsay Chu
+374,ContactSegment,Draft,2018-12-20,Lindsay Chu,CSD-seed,2018-12-20,51,Lindsay Chu
+375,ContactSegment,Draft,2019-01-02,Lindsay Chu,SSD_FY18_RE-CON_AF-01,2019-01-02,51,Lindsay Chu
+376,ContactSegment,Draft,2019-01-03,Lindsay Chu,MA_19_MAWEB_ES_AF-01,2019-01-23,51,Lindsay Chu
+377,ContactSegment,Draft,2019-01-03,Lindsay Chu,ATO_19_ATOWEB_ES_AF-01,2019-01-23,51,Lindsay Chu
+378,ContactSegment,Draft,2019-01-07,Lindsay Chu,MA_19_8700WEB_ES_AF,2019-01-23,51,Lindsay Chu
+379,ContactSegment,Draft,2019-01-08,David Laberge,REPORTING: PAN Welcome Campaign Bouncebacks,2019-01-08,14,David Laberge
+380,ContactSegment,Draft,2019-01-08,Lindsay Chu,89_1809_MORE_SE_AF-03_W2,2019-01-08,51,Lindsay Chu
+381,ContactSegment,Draft,2019-01-08,Lindsay Chu,DGG_1810_REPLIG_EM_WW,2019-01-29,51,Lindsay Chu
+382,ContactSegment,Draft,2019-01-08,Lindsay Chu,LED_19_COMPL_SE_AF_W2,2019-01-09,51,Lindsay Chu
+383,ContactSegment,Draft,2019-01-10,Lindsay Chu,DGG_1901_HALOPLEX_DISCNOT,2019-01-24,51,Lindsay Chu
+384,ContactSegment,Draft,2019-01-11,Lindsay Chu,89_1809_MORE_SE_AF-27,2019-01-11,51,Lindsay Chu
+385,ContactSegment,Draft,2019-01-11,Lindsay Chu,89_1809_MORE_SE_AF-20,2019-01-23,51,Lindsay Chu
+386,ContactSegment,Draft,2019-01-16,Gabriela Fajfer,29_1805_UserMeet_DE_EM_EN,2019-01-25,54,Gabriela Fajfer
+388,ContactSegment,Draft,2019-01-16,Lindsay Chu,LED_19_MVSPROMO_EP_AF_W2,2019-01-16,51,Lindsay Chu
+389,ContactSegment,Draft,2019-01-16,Lindsay Chu,89_1809_MORE_SE_AF-27_R1,2019-01-28,51,Lindsay Chu
+390,ContactSegment,Draft,2019-01-16,Lindsay Chu,SSD_FY19_AUNIV_EP_AF-01_EN,2019-01-24,51,Lindsay Chu
+391,ContactSegment,Draft,2019-01-16,Lindsay Chu,PAN_1906_ASMS_EX_AF-02,2019-01-23,51,Lindsay Chu
+392,ContactSegment,Draft,2019-01-16,Lindsay Chu,89_1809_MORE_SE_AF-21,2019-01-16,51,Lindsay Chu
+393,ContactSegment,Draft,2019-01-16,Lindsay Chu,89_1809_MORE_SE_AF-22,2019-01-16,51,Lindsay Chu
+394,ContactSegment,Draft,2019-01-16,Lindsay Chu,89_1809_MORE_SE_AF-23,2019-01-16,51,Lindsay Chu
+395,ContactSegment,Draft,2019-01-16,Lindsay Chu,89_1809_MORE_SE_AF-24,2019-02-25,51,Lindsay Chu
+396,ContactSegment,Draft,2019-01-16,Lindsay Chu,89_1809_MORE_SE_AF-25,2019-02-25,51,Lindsay Chu
+397,ContactSegment,Draft,2019-01-16,Lindsay Chu,89_1809_MORE_SE_AF-26,2019-02-25,51,Lindsay Chu
+399,ContactSegment,Draft,2019-01-16,Lindsay Chu,ATO_19_ATOWEB_ES_AF-03,2019-02-25,55,Michelle Low
+400,ContactSegment,Draft,2019-01-16,Lindsay Chu,MA_19_MAWEB_ES_AF-03,2019-02-11,51,Lindsay Chu
+401,ContactSegment,Draft,2019-01-17,Gabriela Fajfer,89_FY19_REF_QTOF_SP_EM_EN,2019-01-25,54,Gabriela Fajfer
+402,ContactSegment,Draft,2019-01-18,Macarena Lopez-Mazzeo,DGG_1810_ACIDEMAND_ES_02,2019-01-22,59,Macarena Lopez-Mazzeo
+403,ContactSegment,Active,2019-01-18,Macarena Lopez-Mazzeo,EMEA - Seedlist,2024-02-20,262,Ainsley Tyrer
+404,ContactSegment,Active,2019-01-18,Macarena Lopez-Mazzeo,AFO - Seedlist,2024-05-03,583,Bernard Connelly
+405,ContactSegment,Draft,2019-01-18,Macarena Lopez-Mazzeo,BRAZIL - Seedlist,2023-06-27,262,Ainsley Tyrer
+406,ContactSegment,Active,2019-01-18,Macarena Lopez-Mazzeo,LAR - Seedlist,2023-06-25,262,Ainsley Tyrer
+407,ContactSegment,Active,2019-01-18,Macarena Lopez-Mazzeo,INDIA - Seedlist,2024-01-18,262,Ainsley Tyrer
+408,ContactSegment,Draft,2019-01-18,Macarena Lopez-Mazzeo,RUSSIA - Seedlist,2019-06-28,55,Michelle Low
+409,ContactSegment,Draft,2019-01-18,Macarena Lopez-Mazzeo,CSD_1902_BIOPORT_ES_EM-02,2019-01-22,59,Macarena Lopez-Mazzeo
+410,ContactSegment,Draft,2019-01-18,Macarena Lopez-Mazzeo,VPD_18_AGRENEWS_EM-02,2019-01-24,59,Macarena Lopez-Mazzeo
+411,ContactSegment,Draft,2019-01-18,Gabriela Fajfer,29_FY19_1260Demo_EM-01,2019-01-25,54,Gabriela Fajfer
+412,ContactSegment,Draft,2019-01-18,Gabriela Fajfer,89_FY19_REF_QTOF_SP_EM,2019-01-25,54,Gabriela Fajfer
+413,ContactSegment,Draft,2019-01-18,Gabriela Fajfer,PHA_1901_COMPL_EP_EM_EN,2019-01-28,54,Gabriela Fajfer
+414,ContactSegment,Draft,2019-01-18,Macarena Lopez-Mazzeo,DGG_1901_SMASTR_EP_WW,2019-01-22,59,Macarena Lopez-Mazzeo
+415,ContactSegment,Draft,2019-01-18,Macarena Lopez-Mazzeo,DGG_1901_NGSUMPU_EP_WW,2019-01-22,59,Macarena Lopez-Mazzeo
+419,ContactSegment,Draft,2019-01-18,Macarena Lopez-Mazzeo,DGG_1812_NUMCOM_EP_EM_02,2019-01-22,59,Macarena Lopez-Mazzeo
+420,ContactSegment,Draft,2019-01-18,Macarena Lopez-Mazzeo,DGG_1902_ARTSNNL_EP_EM,2019-01-30,54,Gabriela Fajfer
+421,ContactSegment,Draft,2019-01-18,Macarena Lopez-Mazzeo,AZ_FY19_GCTOUR19_EM,2019-01-25,59,Macarena Lopez-Mazzeo
+423,ContactSegment,Draft,2019-01-18,Lindsay Chu,BR_1902_ESEMINARSPTBR_BR,2019-01-25,51,Lindsay Chu
+424,ContactSegment,Draft,2019-01-18,Lindsay Chu,BR_1902_EVENTSBRASIL_MKTPGM_BR,2019-01-25,51,Lindsay Chu
+425,ContactSegment,Draft,2019-01-18,Lindsay Chu,CSD_FY19_WSSUPPLIES_DE_BR,2019-01-23,51,Lindsay Chu
+426,ContactSegment,Draft,2019-01-20,Michael Mcgonigal,ACA_FY18_LRCANC_AF-01,2019-01-23,25,Michael Mcgonigal
+427,ContactSegment,Draft,2019-01-20,Michael Mcgonigal,AZ_FY19_889060_AF-02,2019-02-04,51,Lindsay Chu
+429,ContactSegment,Draft,2019-01-20,Michael Mcgonigal,AZ_FY19_889060_EM-02-EN,2019-01-30,54,Gabriela Fajfer
+430,ContactSegment,Draft,2019-01-20,Michael Mcgonigal,AZ_FY19_889060_EM-02-DE,2019-01-30,54,Gabriela Fajfer
+431,ContactSegment,Draft,2019-01-20,Michael Mcgonigal,AZ_FY19_889060_EM-02-ES,2019-01-30,54,Gabriela Fajfer
+432,ContactSegment,Draft,2019-01-20,Michael Mcgonigal,AZ_FY19_889060_EM-02-FR,2019-01-30,54,Gabriela Fajfer
+433,ContactSegment,Draft,2019-01-20,Michael Mcgonigal,AZ_FY19_889060_EM-02-IT,2019-01-30,54,Gabriela Fajfer
+434,ContactSegment,Draft,2019-01-21,Macarena Lopez-Mazzeo,89_FY19_Ultivo_EM-02,2019-07-10,55,Michelle Low
+435,ContactSegment,Draft,2019-01-21,Macarena Lopez-Mazzeo,89_FY19_Ultivo_IN-02,2019-01-22,59,Macarena Lopez-Mazzeo
+436,ContactSegment,Draft,2019-01-21,Macarena Lopez-Mazzeo,89_FY19_Ultivo_GC-02-EN,2019-01-22,59,Macarena Lopez-Mazzeo
+440,ContactSegment,Draft,2019-01-21,Macarena Lopez-Mazzeo,89_FY19_Ultivo_LA-02,2019-01-22,59,Macarena Lopez-Mazzeo
+441,ContactSegment,Draft,2019-01-21,Macarena Lopez-Mazzeo,89_FY19_Ultivo_AF-02,2019-03-12,51,Lindsay Chu
+442,ContactSegment,Draft,2019-01-22,Yajuan Zhou,CSD_FY18_SP_REBOOT_AF-01,2019-01-25,63,Yajuan Zhou
+443,ContactSegment,Draft,2019-01-22,Gabriela Fajfer,PAN_1903_PHFORUM_CO_EM_EN,2019-02-01,59,Macarena Lopez-Mazzeo
+444,ContactSegment,Draft,2019-01-22,Yajuan Zhou,CSD_FY18_SP_REBOOT_EM-04,2019-01-25,63,Yajuan Zhou
+445,ContactSegment,Draft,2019-01-22,Macarena Lopez-Mazzeo,DGG_1901_SSXTHSEDM_EP_WW,2019-01-30,54,Gabriela Fajfer
+446,ContactSegment,Draft,2019-01-23,Yajuan Zhou,CSD_FY18_SP_REBOOT_LA-01,2019-01-25,63,Yajuan Zhou
+447,ContactSegment,Draft,2019-01-23,Yajuan Zhou,CSD_FY18_SP_REBOOT_IN-01,2019-01-25,63,Yajuan Zhou
+448,ContactSegment,Draft,2019-01-23,Sindhuri Manda,ATO_FY19_ICPMSJNL_75_IN,2019-01-28,62,Sindhuri Manda
+449,ContactSegment,Draft,2019-01-23,Sindhuri Manda,ATO_FY19_ICPMSJNL_75_EM,2019-01-28,62,Sindhuri Manda
+450,ContactSegment,Draft,2019-01-23,Sindhuri Manda,29_FY19_Efficiency_AF-04,2019-02-04,55,Michelle Low
+451,ContactSegment,Draft,2019-01-23,Sindhuri Manda,29_FY19_Efficiency_EM-04,2019-02-01,62,Sindhuri Manda
+452,ContactSegment,Draft,2019-01-23,Yajuan Zhou,CSD_FY19_ICPOES_NB_AF-01,2019-01-25,63,Yajuan Zhou
+453,ContactSegment,Draft,2019-01-23,Yajuan Zhou,CSD_FY19_ICPOES_NB_EM-01-EN,2019-01-25,63,Yajuan Zhou
+454,ContactSegment,Draft,2019-01-23,Yajuan Zhou,CSD_FY19_ICPOES_NB_LA-01,2019-01-25,63,Yajuan Zhou
+455,ContactSegment,Draft,2019-01-23,Yajuan Zhou,CSD_FY19_ICPOES_NB_IN-01,2019-01-25,63,Yajuan Zhou
+456,ContactSegment,Draft,2019-01-23,Macarena Lopez-Mazzeo,DGG_1810_REPLIG_EM_02,2019-01-23,59,Macarena Lopez-Mazzeo
+457,ContactSegment,Draft,2019-01-23,Lindsay Chu,CSD_FY19_LC_ES_AF-04,2019-01-31,64,Sabrina Zhuang
+458,ContactSegment,Draft,2019-01-23,David Laberge,REPORTING: Opt-In Contacts,2019-01-23,14,David Laberge
+459,ContactSegment,Draft,2019-01-24,Sabrina Zhuang,ACA_FY18_INSIGHTS_BR-03-v2,2019-01-30,64,Sabrina Zhuang
+460,ContactSegment,Draft,2019-01-24,Yajuan Zhou,MA_FY19_CARY3500_AF-01,2019-02-06,51,Lindsay Chu
+461,ContactSegment,Draft,2019-01-24,Yajuan Zhou,MA_FY19_CARY3500_LAR-01-ES,2019-02-22,54,Gabriela Fajfer
+462,ContactSegment,Draft,2019-01-24,Yajuan Zhou,MA_FY19_CARY3500_EM-01-EN,2019-01-25,63,Yajuan Zhou
+463,ContactSegment,Draft,2019-01-24,Yajuan Zhou,MA_FY19_CARY3500_EM-01-DE,2019-03-01,59,Macarena Lopez-Mazzeo
+464,ContactSegment,Draft,2019-01-24,Yajuan Zhou,MA_FY19_CARY3500_EM-01-FR,2019-02-27,54,Gabriela Fajfer
+465,ContactSegment,Draft,2019-01-24,Yajuan Zhou,MA_FY19_CARY3500_EM-01-IT,2019-02-27,54,Gabriela Fajfer
+466,ContactSegment,Draft,2019-01-24,Yajuan Zhou,MA_FY19_CARY3500_EM-01-ES,2019-02-27,54,Gabriela Fajfer
+467,ContactSegment,Draft,2019-01-24,Yajuan Zhou,MA_FY19_CARY3500_IN-01,2019-01-25,63,Yajuan Zhou
+468,ContactSegment,Draft,2019-01-24,Lindsay Chu,DGG_1810_ACIDEMAND_ES_WW_BR,2019-01-28,51,Lindsay Chu
+469,ContactSegment,Draft,2019-01-24,Lindsay Chu,DGG_1812_OMNISSAFE_EM_BR,2019-01-28,51,Lindsay Chu
+470,ContactSegment,Draft,2019-01-24,Lindsay Chu,ACA_19_CMS_EDU_AF-01,2019-01-24,51,Lindsay Chu
+471,ContactSegment,Draft,2019-01-25,Sabrina Zhuang,PHA_FY19_INSIGHT_LA-01,2019-01-25,64,Sabrina Zhuang
+472,ContactSegment,Draft,2019-01-25,Michelle Low,29_1901_ALLIANCES_EP_IN_EN,2019-01-25,55,Michelle Low
+473,ContactSegment,Draft,2019-01-25,Michelle Low,Exclude List Segment,2019-02-08,54,Gabriela Fajfer
+475,ContactSegment,Draft,2019-01-25,Michael Mcgonigal,BZ_FY19_5977BHES_EM-DE,2019-01-29,59,Macarena Lopez-Mazzeo
+476,ContactSegment,Draft,2019-01-25,Michael Mcgonigal,BZ_FY19_5977BHES_EM-ES,2019-01-25,25,Michael Mcgonigal
+477,ContactSegment,Draft,2019-01-25,Michael Mcgonigal,BZ_FY19_5977BHES_EM-FR,2019-01-25,25,Michael Mcgonigal
+478,ContactSegment,Draft,2019-01-25,Michael Mcgonigal,BZ_FY19_5977BHES_EM-IT,2019-01-25,25,Michael Mcgonigal
+479,ContactSegment,Draft,2019-01-25,Lindsay Chu,AZ_19_8890_SE_AF-07,2019-01-30,51,Lindsay Chu
+480,ContactSegment,Draft,2019-01-25,Lindsay Chu,AZ_19_8890_SE_AF-09,2019-02-27,51,Lindsay Chu
+481,ContactSegment,Draft,2019-01-26,Macarena Lopez-Mazzeo,29_1902_2DLCWORK_SE_EM,2019-02-01,59,Macarena Lopez-Mazzeo
+482,ContactSegment,Draft,2019-01-26,Macarena Lopez-Mazzeo,29_1902_2DLCWORK_SE_EM_02,2019-02-19,59,Macarena Lopez-Mazzeo
+483,ContactSegment,Draft,2019-01-28,Sabrina Zhuang,FOR_FY19_Insights_IN-01,2019-01-28,64,Sabrina Zhuang
+484,ContactSegment,Draft,2019-01-28,Macarena Lopez-Mazzeo,ATO_1902_NANOWEBS_ES_EM,2019-02-11,54,Gabriela Fajfer
+485,ContactSegment,Draft,2019-01-28,Macarena Lopez-Mazzeo,DGG_1905_SMASTR_EP_WW,2019-02-01,59,Macarena Lopez-Mazzeo
+486,ContactSegment,Draft,2019-01-28,Macarena Lopez-Mazzeo,ATO_FY19_CEMAT_EM,2019-01-28,59,Macarena Lopez-Mazzeo
+487,ContactSegment,Draft,2019-01-29,Sindhuri Manda,29_FY19_Efficiency_IN-04,2019-02-01,62,Sindhuri Manda
+488,ContactSegment,Draft,2019-01-29,Sabrina Zhuang,PHA_FY19_INSIGHT_IN-01,2019-01-29,64,Sabrina Zhuang
+489,ContactSegment,Draft,2019-01-29,Macarena Lopez-Mazzeo,ATO_1909_ICPMSWAD_DE_EM,2019-05-30,69,Craig Barnes
+490,ContactSegment,Draft,2019-01-29,Macarena Lopez-Mazzeo,CSD_19_GCFILTM_EM-EN,2019-02-18,59,Macarena Lopez-Mazzeo
+491,ContactSegment,Draft,2019-01-29,Macarena Lopez-Mazzeo,CSD_19_GCFILTM_EM-01_SP,2019-03-01,59,Macarena Lopez-Mazzeo
+492,ContactSegment,Draft,2019-01-29,Macarena Lopez-Mazzeo,CSD_19_GCFILTM_EM-01_DE,2019-03-01,59,Macarena Lopez-Mazzeo
+493,ContactSegment,Draft,2019-01-29,Macarena Lopez-Mazzeo,CSD_19_GCFILTM_EM-01_FR,2019-03-01,59,Macarena Lopez-Mazzeo
+494,ContactSegment,Draft,2019-01-29,Macarena Lopez-Mazzeo,CSD_19_GCFILTM_EM-01_IT,2019-03-01,59,Macarena Lopez-Mazzeo
+495,ContactSegment,Draft,2019-01-29,Macarena Lopez-Mazzeo,CSD_19_GCFILTM_AF-EN,2019-02-18,59,Macarena Lopez-Mazzeo
+498,ContactSegment,Draft,2019-01-29,Brian Goodwin,REPORTING - Inactive Contacts,2019-01-29,35,Brian Goodwin
+499,ContactSegment,Draft,2019-01-29,David Laberge,REPORTING: Contacts who have visited HVWC Page Tag last 3 month,2019-01-29,14,David Laberge
+500,ContactSegment,Draft,2019-01-30,Sabrina Zhuang,ENV_FY19_Insights_BR-01,2019-01-30,64,Sabrina Zhuang
+501,ContactSegment,Draft,2019-01-30,Gabriela Fajfer,LI_1805_UserMeet_DE_EM,2019-01-30,54,Gabriela Fajfer
+503,ContactSegment,Draft,2019-01-30,Michael Mcgonigal,AZ_FY19_889060_PT-02,2019-01-31,64,Sabrina Zhuang
+505,ContactSegment,Draft,2019-01-30,Michael Mcgonigal,AZ_FY19_889060_LA-02,2019-01-30,25,Michael Mcgonigal
+506,ContactSegment,Draft,2019-01-30,Michael Mcgonigal,AZ_FY19_889060_IN-02,2019-02-03,25,Michael Mcgonigal
+507,ContactSegment,Draft,2019-01-30,Lindsay Chu,LED_19_COMPL_SE_AF,2019-01-30,51,Lindsay Chu
+508,ContactSegment,Draft,2019-01-31,Sabrina Zhuang,CSD_FY19_ADV_HIC_AF-01,2019-01-31,64,Sabrina Zhuang
+509,ContactSegment,Draft,2019-01-31,Sindhuri Manda,ATO_FY19_ICPMSJNL_75_EM_Split2,2019-02-01,59,Macarena Lopez-Mazzeo
+510,ContactSegment,Draft,2019-01-31,Sabrina Zhuang,CSD_FY19_ADV_HIC_LA-01,2019-01-31,64,Sabrina Zhuang
+511,ContactSegment,Draft,2019-01-31,Sabrina Zhuang,CSD_FY19_ADV_HIC_IN-01,2019-01-31,64,Sabrina Zhuang
+512,ContactSegment,Draft,2019-01-31,Sabrina Zhuang,CSD_FY19_ADV_HIC_EM-01-EN,2019-01-31,64,Sabrina Zhuang
+513,ContactSegment,Draft,2019-01-31,Sabrina Zhuang,CSD_FY19_ADV_HIC_EM-01-FR,2019-01-31,64,Sabrina Zhuang
+514,ContactSegment,Draft,2019-01-31,Sabrina Zhuang,CSD_FY19_ADV_HIC_EM-01-IT,2019-01-31,64,Sabrina Zhuang
+515,ContactSegment,Draft,2019-01-31,Sabrina Zhuang,CSD_FY19_ADV_HIC_EM-01-DE,2019-01-31,64,Sabrina Zhuang
+516,ContactSegment,Draft,2019-01-31,Macarena Lopez-Mazzeo,DGG_1902_FEMTP_SP_EM,2019-02-13,54,Gabriela Fajfer
+517,ContactSegment,Draft,2019-01-31,Sabrina Zhuang,CSD_FY19_ADV_HIC_EM-01-ES,2019-01-31,64,Sabrina Zhuang
+518,ContactSegment,Draft,2019-01-31,Macarena Lopez-Mazzeo,DGG_1901_BIOUP_SP_EM,2019-01-31,59,Macarena Lopez-Mazzeo
+519,ContactSegment,Draft,2019-01-31,Macarena Lopez-Mazzeo,VI_FY19_BravMeta_EM-01_EN,2019-03-22,59,Macarena Lopez-Mazzeo
+520,ContactSegment,Draft,2019-01-31,Macarena Lopez-Mazzeo,VI_FY19_BravMeta_EM-01_DE,2019-04-23,59,Macarena Lopez-Mazzeo
+521,ContactSegment,Draft,2019-01-31,Macarena Lopez-Mazzeo,VI_FY19_BravMeta_EM-01_SP,2019-04-11,59,Macarena Lopez-Mazzeo
+522,ContactSegment,Draft,2019-01-31,Macarena Lopez-Mazzeo,VI_FY19_BravMeta_EM-01_FR,2019-04-11,59,Macarena Lopez-Mazzeo
+523,ContactSegment,Draft,2019-01-31,Macarena Lopez-Mazzeo,VI_FY19_BravMeta_EM-01_IT,2019-04-11,59,Macarena Lopez-Mazzeo
+524,ContactSegment,Draft,2019-01-31,Macarena Lopez-Mazzeo,VI_FY19_BravMeta_AF-01,2019-03-27,63,Yajuan Zhou
+525,ContactSegment,Draft,2019-01-31,Macarena Lopez-Mazzeo,VI_FY19_BravMeta_IN-01,2019-03-27,64,Sabrina Zhuang
+527,ContactSegment,Draft,2019-01-31,Lindsay Chu,PAN_FY19_SEMINARIO_ES_BR-01,2019-02-25,51,Lindsay Chu
+528,ContactSegment,Draft,2019-01-31,Lindsay Chu,DGG_1901_MASTRREPRELEASE_AF,2019-01-31,51,Lindsay Chu
+529,ContactSegment,Draft,2019-02-01,Sabrina Zhuang,MAT_FY19_INSIGHTS_BR-01,2019-02-01,64,Sabrina Zhuang
+530,ContactSegment,Draft,2019-02-01,Macarena Lopez-Mazzeo,1903_GCQTOFFOR_EM,2019-02-07,59,Macarena Lopez-Mazzeo
+531,ContactSegment,Draft,2019-02-01,Macarena Lopez-Mazzeo,DGG_1902_CLINBERN_SE_EM_02,2019-02-01,59,Macarena Lopez-Mazzeo
+532,ContactSegment,Draft,2019-02-01,Gabriela Fajfer,CSD_1902_LC_eSEM_EP_EM,2019-02-08,54,Gabriela Fajfer
+533,ContactSegment,Draft,2019-02-01,Gabriela Fajfer,LED_FY19_COMPL_ES_EM-3,2019-02-01,54,Gabriela Fajfer
+534,ContactSegment,Draft,2019-02-01,Macarena Lopez-Mazzeo,29_1904_LCTOUR_EM,2019-02-01,59,Macarena Lopez-Mazzeo
+535,ContactSegment,Draft,2019-02-04,Michelle Low,PAN_1902_SPECTRUM_SE_IN_EN,2019-02-04,55,Michelle Low
+536,ContactSegment,Draft,2019-02-04,Michelle Low,XF_FY19_SSMICRO_AF_EN,2019-02-04,55,Michelle Low
+537,ContactSegment,Draft,2019-02-04,Michelle Low,XF_FY19_SSMICRO_EM_EN,2019-02-04,55,Michelle Low
+538,ContactSegment,Draft,2019-02-04,Michelle Low,CSD_FY19_CSULTRA_IN-02_EN,2019-02-04,55,Michelle Low
+539,ContactSegment,Draft,2019-02-04,Michelle Low,CSD_FY19_CSULTRA_AF-02_EN,2019-02-13,55,Michelle Low
+540,ContactSegment,Draft,2019-02-04,Michelle Low,ENV_FY19_NTLP_BR_01_PT,2019-02-04,55,Michelle Low
+541,ContactSegment,Draft,2019-02-04,Gabriela Fajfer,29_1805_UserMeet_DE_EM_01,2019-02-11,54,Gabriela Fajfer
+542,ContactSegment,Draft,2019-02-04,Gabriela Fajfer,LI_1805_UserMeet_DE_EM_2,2019-02-22,54,Gabriela Fajfer
+544,ContactSegment,Draft,2019-02-04,Lindsay Chu,BR_1902_ESEMINARSPTBR_BR_R1,2019-02-13,51,Lindsay Chu
+545,ContactSegment,Draft,2019-02-04,Lindsay Chu,DGG_1901_SSXTHSEDM_EP_WW_AF,2019-02-04,51,Lindsay Chu
+546,ContactSegment,Draft,2019-02-05,Macarena Lopez-Mazzeo,BZ_1812_GCLUX_SE_EM_02_EN,2019-02-05,59,Macarena Lopez-Mazzeo
+547,ContactSegment,Draft,2019-02-05,Macarena Lopez-Mazzeo,AZ_FY19_GCTOUR19_EM_02,2019-02-15,59,Macarena Lopez-Mazzeo
+548,ContactSegment,Draft,2019-02-05,Gabriela Fajfer,29_1903_UHPLC_ES_EM,2019-02-05,54,Gabriela Fajfer
+559,ContactSegment,Draft,2019-02-05,David Laberge,REPORTING: China Contacts,2019-02-05,14,David Laberge
+560,ContactSegment,Draft,2019-02-05,Lindsay Chu,89_1809_MORE_SE_AF-20_R1,2019-02-05,51,Lindsay Chu
+561,ContactSegment,Draft,2019-02-06,Macarena Lopez-Mazzeo,CSD_19_GCFILTM_LA-EN,2019-02-18,59,Macarena Lopez-Mazzeo
+562,ContactSegment,Draft,2019-02-06,Fabiola Lopez,AZ_FY19_889060_SE_LA-01,2019-02-13,61,Fabiola Lopez
+563,ContactSegment,Draft,2019-02-06,Lindsay Chu,DGG_1904_HOUCGHNGS_SE_AF,2019-02-06,51,Lindsay Chu
+565,ContactSegment,Draft,2019-02-06,Lindsay Chu,DGG_1903_NSH_EX_AF,2019-02-07,51,Lindsay Chu
+566,ContactSegment,Draft,2019-02-06,Lindsay Chu,DGG_1901_SSXTHSEDM_EP_WW_BR,2019-02-06,51,Lindsay Chu
+567,ContactSegment,Draft,2019-02-07,Macarena Lopez-Mazzeo,CSD_1903_BIOCOLUMN_ES_EM,2019-02-07,59,Macarena Lopez-Mazzeo
+568,ContactSegment,Draft,2019-02-07,Macarena Lopez-Mazzeo,DGG_1901_NGSTT_ES_WW-01,2019-02-07,59,Macarena Lopez-Mazzeo
+569,ContactSegment,Draft,2019-02-07,Macarena Lopez-Mazzeo,DGG_1901_NGSTT_ES_WW-02,2019-02-07,59,Macarena Lopez-Mazzeo
+571,ContactSegment,Draft,2019-02-08,Gabriela Fajfer,Exclude List Segment,2019-02-08,54,Gabriela Fajfer
+573,ContactSegment,Draft,2019-02-08,Gabriela Fajfer,Segment Template 20190208 v 2,2019-02-08,54,Gabriela Fajfer
+575,ContactSegment,Draft,2019-02-11,Macarena Lopez-Mazzeo,CSD_19_GCFILTM_IN-EN,2019-02-18,59,Macarena Lopez-Mazzeo
+577,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_IN-03,2019-02-11,25,Michael Mcgonigal
+578,ContactSegment,Draft,2019-02-11,Macarena Lopez-Mazzeo,DGG_1905_SMASTR_EP_02,2019-02-14,59,Macarena Lopez-Mazzeo
+579,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_AF-03,2019-02-11,25,Michael Mcgonigal
+580,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_AF-04,2019-03-01,59,Macarena Lopez-Mazzeo
+581,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_LA-03,2019-02-19,25,Michael Mcgonigal
+583,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_LA-04,2019-02-11,25,Michael Mcgonigal
+584,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_PT-03,2019-02-19,25,Michael Mcgonigal
+585,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_PT-04,2019-02-11,25,Michael Mcgonigal
+586,ContactSegment,Draft,2019-02-11,Gabriela Fajfer,PAN_FY19_IN_SEP_SE_EM,2019-02-11,54,Gabriela Fajfer
+587,ContactSegment,Draft,2019-02-11,Gabriela Fajfer,CSD_1903_UHPLCWTC_ES_EM,2019-02-22,59,Macarena Lopez-Mazzeo
+588,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_EM-03-EN,2019-02-11,25,Michael Mcgonigal
+589,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_EM-03-IT,2019-02-11,25,Michael Mcgonigal
+590,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_EM-03-FR,2019-02-11,25,Michael Mcgonigal
+591,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_EM-03-ES,2019-02-11,25,Michael Mcgonigal
+592,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_EM-03-DE,2019-02-11,25,Michael Mcgonigal
+593,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_EM-04-EN,2019-02-12,54,Gabriela Fajfer
+594,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_EM-04-IT,2019-02-11,25,Michael Mcgonigal
+595,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_EM-04-FR,2019-02-11,25,Michael Mcgonigal
+596,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_EM-04-ES,2019-02-11,25,Michael Mcgonigal
+597,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_EM-04-DE,2019-02-12,54,Gabriela Fajfer
+598,ContactSegment,Draft,2019-02-11,Michael Mcgonigal,AZ_FY19_889060_IN-04,2019-03-01,55,Michelle Low
+599,ContactSegment,Draft,2019-02-11,Lindsay Chu,PLUF_FY18_eBulletin_AF-02,2019-02-15,51,Lindsay Chu
+602,ContactSegment,Draft,2019-02-11,Lindsay Chu,PLUF_FY18_eBulletin_IN-02,2019-02-14,51,Lindsay Chu
+603,ContactSegment,Draft,2019-02-11,Lindsay Chu,PLUF_FY18_eBulletin_EM-02,2019-02-14,51,Lindsay Chu
+604,ContactSegment,Draft,2019-02-11,Brian Goodwin,REPORTING - Shared Info,2019-02-11,35,Brian Goodwin
+605,ContactSegment,Draft,2019-02-11,Lindsay Chu,CSD_19_SUPERH_SE_AF-05,2019-02-25,51,Lindsay Chu
+607,ContactSegment,Draft,2019-02-11,Lindsay Chu,DGG_1903_NSH_EX_AF_R1,2019-02-11,51,Lindsay Chu
+608,ContactSegment,Draft,2019-02-12,Gabriela Fajfer,Sabrina Segment- temporary template ,2019-02-12,54,Gabriela Fajfer
+609,ContactSegment,Draft,2019-02-12,Sabrina Zhuang,CSD_FY19_ADV_AGG_AF-01​,2019-02-12,64,Sabrina Zhuang
+610,ContactSegment,Draft,2019-02-12,Gabriela Fajfer,Yajuan Segment- temporary template,2019-02-12,63,Yajuan Zhou
+611,ContactSegment,Draft,2019-02-12,Yajuan Zhou,CSD_FY19_EC-AWR-SUB_AF,2019-02-12,63,Yajuan Zhou
+612,ContactSegment,Draft,2019-02-12,Yajuan Zhou,CSD_FY19_EC-AWR-SUB_EM-EN,2019-02-19,59,Macarena Lopez-Mazzeo
+613,ContactSegment,Draft,2019-02-12,Sabrina Zhuang,CSD_FY19_ADV_AGG_LA-01​,2019-02-12,59,Macarena Lopez-Mazzeo
+615,ContactSegment,Draft,2019-02-12,Sabrina Zhuang,CSD_FY19_ADV_AGG_EM-01​,2019-02-12,64,Sabrina Zhuang
+616,ContactSegment,Draft,2019-02-12,Sabrina Zhuang,CSD_FY19_ADV_AGG_EM-01​,2019-02-12,64,Sabrina Zhuang
+617,ContactSegment,Draft,2019-02-12,Gabriela Fajfer,BZ_FY19_BUYBACK_EP_EM,2019-02-20,54,Gabriela Fajfer
+618,ContactSegment,Draft,2019-02-12,Gabriela Fajfer,PAN_1903_ENVFOD_SE_EM,2019-02-12,54,Gabriela Fajfer
+619,ContactSegment,Draft,2019-02-12,Gabriela Fajfer,PAN_1903_PHFORUM_CO_EM_EN-2,2019-02-12,54,Gabriela Fajfer
+620,ContactSegment,Draft,2019-02-12,Lindsay Chu,CRS_1901_MSACL_EX_AF,2019-02-27,51,Lindsay Chu
+621,ContactSegment,Draft,2019-02-12,Lindsay Chu,DGG_1810_REPLIG_EM_WW_R1,2019-02-12,51,Lindsay Chu
+622,ContactSegment,Draft,2019-02-12,Sindhuri Manda,ATO_FY19_ENV-OES_AF-01​_EN,2019-02-22,62,Sindhuri Manda
+624,ContactSegment,Draft,2019-02-13,Sabrina Zhuang,CSD_FY19_ADV_AGG_IN-01,2019-02-13,64,Sabrina Zhuang
+625,ContactSegment,Draft,2019-02-13,Sindhuri Manda,ATO_FY19_ENV-OES_IN-01​_EN,2019-02-14,62,Sindhuri Manda
+626,ContactSegment,Draft,2019-02-13,Yajuan Zhou,CSD_FY19_ICPOES_NB_EM-01-FR,2019-02-13,63,Yajuan Zhou
+627,ContactSegment,Draft,2019-02-13,Yajuan Zhou,CSD_FY19_ICPOES_NB_EM-01-IT,2019-02-13,63,Yajuan Zhou
+628,ContactSegment,Draft,2019-02-13,Yajuan Zhou,CSD_FY19_ICPOES_NB_EM-01-DE,2019-02-13,63,Yajuan Zhou
+629,ContactSegment,Draft,2019-02-13,Yajuan Zhou,CSD_FY19_ICPOES_NB_EM-01-ES,2019-02-13,63,Yajuan Zhou
+630,ContactSegment,Draft,2019-02-13,Michelle Low,CSD_FY19_CSULTRA_EM-02_EN,2019-02-13,55,Michelle Low
+631,ContactSegment,Draft,2019-02-13,Michelle Low,CSD_FY19_CSULTRA_EM-02_FR,2019-02-20,59,Macarena Lopez-Mazzeo
+632,ContactSegment,Draft,2019-02-13,Michelle Low,CSD_FY19_CSULTRA_EM-02_IT,2019-02-20,59,Macarena Lopez-Mazzeo
+633,ContactSegment,Draft,2019-02-13,Michelle Low,CSD_FY19_CSULTRA_EM-02_DE,2019-02-20,59,Macarena Lopez-Mazzeo
+634,ContactSegment,Draft,2019-02-13,Michelle Low,CSD_FY19_CSULTRA_EM-02_ES,2019-02-20,59,Macarena Lopez-Mazzeo
+635,ContactSegment,Draft,2019-02-13,Michelle Low,CSD_FY19_CSULTRA_LA-02_EN,2019-02-14,55,Michelle Low
+636,ContactSegment,Draft,2019-02-13,Michelle Low,CSD_FY19_CSULTRA_BR-02_PT,2019-02-25,51,Lindsay Chu
+637,ContactSegment,Draft,2019-02-13,Manjunath KM,Bounced records,2019-04-01,31,Manjunath KM
+638,ContactSegment,Draft,2019-02-13,Gabriela Fajfer,PAN_1903_FORUMLABO_EX_EM-02,2019-02-13,54,Gabriela Fajfer
+639,ContactSegment,Draft,2019-02-13,Macarena Lopez-Mazzeo,CSD_19_GCIFP1_EM-01-EN,2019-02-13,59,Macarena Lopez-Mazzeo
+640,ContactSegment,Draft,2019-02-13,Macarena Lopez-Mazzeo,CSD_19_GCIFP1_EM-01-DE,2019-03-22,64,Sabrina Zhuang
+641,ContactSegment,Draft,2019-02-13,Macarena Lopez-Mazzeo,CSD_19_GCIFP1_EM-01-SP,2019-03-22,64,Sabrina Zhuang
+642,ContactSegment,Draft,2019-02-13,Macarena Lopez-Mazzeo,CSD_19_GCIFP1_EM-01-FR,2019-03-22,64,Sabrina Zhuang
+643,ContactSegment,Draft,2019-02-13,Macarena Lopez-Mazzeo,CSD_19_GCIFP1_EM-01-IT,2019-03-22,64,Sabrina Zhuang
+644,ContactSegment,Draft,2019-02-13,Macarena Lopez-Mazzeo,CSD_19_GCIFP1_AF-01,2019-03-04,55,Michelle Low
+645,ContactSegment,Draft,2019-02-13,Macarena Lopez-Mazzeo,CSD_19_GCIFP1_IN-01,2019-02-13,59,Macarena Lopez-Mazzeo
+646,ContactSegment,Draft,2019-02-13,Macarena Lopez-Mazzeo,CSD_19_GCIFP1_LA-01,2019-02-13,59,Macarena Lopez-Mazzeo
+647,ContactSegment,Draft,2019-02-13,Macarena Lopez-Mazzeo,89_1902_MASSHUN_DE_EM,2019-02-22,59,Macarena Lopez-Mazzeo
+648,ContactSegment,Draft,2019-02-13,Macarena Lopez-Mazzeo,89_1902_MASSHUN_DE_EM_02,2019-02-22,54,Gabriela Fajfer
+649,ContactSegment,Draft,2019-02-13,Gabriela Fajfer,AZ_FY19_6850TU_EP_EM,2019-05-08,64,Sabrina Zhuang
+650,ContactSegment,Draft,2019-02-13,Michael Mcgonigal,BZ_FY19_5977BHES_EM-IT,2019-02-13,25,Michael Mcgonigal
+651,ContactSegment,Draft,2019-02-13,Michael Mcgonigal,BZ_FY19_5977BHES_EM-FR,2019-02-13,25,Michael Mcgonigal
+652,ContactSegment,Draft,2019-02-13,Michael Mcgonigal,BZ_FY19_5977BHES_EM-DE,2019-02-13,25,Michael Mcgonigal
+653,ContactSegment,Draft,2019-02-13,Michael Mcgonigal,BZ_FY19_5977BHES_EM-ES,2019-02-13,25,Michael Mcgonigal
+654,ContactSegment,Draft,2019-02-13,Michael Mcgonigal,BZ_FY19_5977BHES_LA-02,2019-02-13,25,Michael Mcgonigal
+655,ContactSegment,Draft,2019-02-13,Gabriela Fajfer,SSD_1902_eCR_EP_EM_EN,2019-02-13,54,Gabriela Fajfer
+656,ContactSegment,Draft,2019-02-13,Fabiola Lopez,AZ_FY19_889060_SE_LA-02,2019-02-13,61,Fabiola Lopez
+657,ContactSegment,Draft,2019-02-14,Gabriela Fajfer,AZ_1903_8890GC_SE_EM,2019-02-20,54,Gabriela Fajfer
+658,ContactSegment,Draft,2019-02-14,Gabriela Fajfer,SSD_1902_eCR_EP_EM_ES,2019-02-18,54,Gabriela Fajfer
+659,ContactSegment,Draft,2019-02-14,Gabriela Fajfer,SSD_1902_eCR_EP_EM_FR,2019-02-14,54,Gabriela Fajfer
+660,ContactSegment,Draft,2019-02-14,Gabriela Fajfer,SSD_1902_eCR_EP_EM_DE,2019-02-14,54,Gabriela Fajfer
+661,ContactSegment,Draft,2019-02-14,Gabriela Fajfer,SSD_1902_eCR_EP_EM_IT,2019-02-14,54,Gabriela Fajfer
+662,ContactSegment,Draft,2019-02-14,Gabriela Fajfer,SSD_1902_CR-UP_EP_EM_EN,2019-02-18,54,Gabriela Fajfer
+663,ContactSegment,Draft,2019-02-14,Macarena Lopez-Mazzeo,DGG_1902_QPATHNL_EP_EM,2019-02-14,59,Macarena Lopez-Mazzeo
+664,ContactSegment,Draft,2019-02-14,Gabriela Fajfer,SSD_1902_CR-UP_EP_EM_EN-test,2019-02-18,54,Gabriela Fajfer
+665,ContactSegment,Draft,2019-02-14,Macarena Lopez-Mazzeo,VI_FY19_BravMeta_BR-01,2019-04-18,51,Lindsay Chu
+668,ContactSegment,Draft,2019-02-14,Gabriela Fajfer,FOD_1903_GCLCQQQ_ES_EM,2019-02-20,54,Gabriela Fajfer
+669,ContactSegment,Draft,2019-02-14,Gabriela Fajfer,MA_1904_UVVIS_ES_EM,2019-03-01,54,Gabriela Fajfer
+670,ContactSegment,Draft,2019-02-14,Sindhuri Manda,ATO_FY19_ENV-OES_EM-01​_EN,2019-02-25,59,Macarena Lopez-Mazzeo
+671,ContactSegment,Draft,2019-02-15,Fabiola Lopez,AZ_FY19_889060_SE_LA-03,2019-02-15,61,Fabiola Lopez
+672,ContactSegment,Draft,2019-02-15,Fabiola Lopez,PAN_FY19_ZOOM_ES_LA-02,2019-02-15,61,Fabiola Lopez
+673,ContactSegment,Draft,2019-02-15,Michelle Low,DGG_1902_FEMTP_SP_IN_EN,2019-02-15,55,Michelle Low
+674,ContactSegment,Draft,2019-02-15,Michelle Low,DGG_1905_SMASTR_EP_IN_EN,2019-03-01,59,Macarena Lopez-Mazzeo
+676,ContactSegment,Draft,2019-02-15,Lindsay Chu,ACA_19_CMS_EDU_AF-02,2019-02-15,51,Lindsay Chu
+677,ContactSegment,Draft,2019-02-15,Lindsay Chu,PLUF_FY18_eBulletin_LA-02,2019-02-15,51,Lindsay Chu
+679,ContactSegment,Draft,2019-02-15,Lindsay Chu,PAN_FY19_SINDUS_EP_BR,2019-02-15,51,Lindsay Chu
+680,ContactSegment,Draft,2019-02-15,Lindsay Chu,DGG_1903_NSH_EX_BR,2019-02-15,51,Lindsay Chu
+681,ContactSegment,Draft,2019-02-15,Lindsay Chu,DGG_1903_NSH_EX_BR_W2,2019-03-11,51,Lindsay Chu
+682,ContactSegment,Draft,2019-02-15,Lindsay Chu,CSD_FY19_WSSUPPLIES_DE_BR_R1,2019-02-15,51,Lindsay Chu
+683,ContactSegment,Draft,2019-02-18,Gabriela Fajfer,ATO_1904_WATERICP_DE_EM,2019-02-20,59,Macarena Lopez-Mazzeo
+684,ContactSegment,Draft,2019-02-18,Gabriela Fajfer,SSD_1902_CR_EP_EM_EN,2019-02-18,54,Gabriela Fajfer
+685,ContactSegment,Draft,2019-02-19,Yajuan Zhou,CSD_FY19_ICP-OES_NEB_BR-01,2019-02-19,63,Yajuan Zhou
+686,ContactSegment,Draft,2019-02-19,Manjunath KM,Not Hard Bounced,2019-02-19,31,Manjunath KM
+687,ContactSegment,Draft,2019-02-19,Gabriela Fajfer,ATO_1904_WATERICP_ES_EM,2019-03-22,59,Macarena Lopez-Mazzeo
+688,ContactSegment,Draft,2019-02-19,Lindsay Chu,DGG_1903_ABRF_EX_AF,2019-03-01,59,Macarena Lopez-Mazzeo
+690,ContactSegment,Draft,2019-02-19,Lindsay Chu,DGG_1905_SMASTR_EP_WW_AF,2019-02-25,55,Michelle Low
+691,ContactSegment,Draft,2019-02-19,Lindsay Chu,89_1809_MORE_SE_AF-28,2019-02-25,51,Lindsay Chu
+692,ContactSegment,Draft,2019-02-19,Lindsay Chu,89_1809_MORE_SE_AF-21_R1,2019-02-19,51,Lindsay Chu
+693,ContactSegment,Draft,2019-02-19,Lindsay Chu,89_1809_MORE_SE_AF-15_R1,2019-02-19,51,Lindsay Chu
+694,ContactSegment,Draft,2019-02-19,Lindsay Chu,89_1809_MORE_SE_AF-15,2019-02-19,51,Lindsay Chu
+695,ContactSegment,Draft,2019-02-20,Macarena Lopez-Mazzeo,CSD_19_GCFILTM_BR_PT,2019-02-25,51,Lindsay Chu
+696,ContactSegment,Draft,2019-02-20,Macarena Lopez-Mazzeo,PAN_1906_ForumDE_EM,2019-03-01,59,Macarena Lopez-Mazzeo
+697,ContactSegment,Draft,2019-02-20,Gabriela Fajfer,CSD_1903_SEP_CO_EM,2019-02-20,54,Gabriela Fajfer
+698,ContactSegment,Draft,2019-02-20,David Laberge,xx-REPORTING: FRESH ADDRESS LIST MARKED AS HARD BOUNCEBACKS,2019-02-20,14,David Laberge
+699,ContactSegment,Draft,2019-02-20,Lindsay Chu,DGG_1902_PCABATTFAIL_AF,2019-02-20,51,Lindsay Chu
+700,ContactSegment,Draft,2019-02-21,Michelle Low,ACA_FY19_Academia_AF_EN,2019-02-21,55,Michelle Low
+701,ContactSegment,Draft,2019-02-21,Michelle Low,ACA_FY19_Academia_LA_EN,2019-02-21,55,Michelle Low
+702,ContactSegment,Draft,2019-02-21,Michelle Low,ACA_FY19_Academia_EM_EN,2019-02-21,55,Michelle Low
+703,ContactSegment,Draft,2019-02-21,Michelle Low,ACA_FY19_Academia_BR_PT,2019-02-21,55,Michelle Low
+704,ContactSegment,Draft,2019-02-21,Michelle Low,ACA_FY19_Academia_EM_FR,2019-04-08,54,Gabriela Fajfer
+705,ContactSegment,Draft,2019-02-21,Michelle Low,ACA_FY19_Academia_EM_IT,2019-04-08,54,Gabriela Fajfer
+706,ContactSegment,Draft,2019-02-21,Michelle Low,ACA_FY19_Academia_EM_DE,2019-04-08,54,Gabriela Fajfer
+707,ContactSegment,Draft,2019-02-21,Michelle Low,ACA_FY19_Academia_EM_ES,2019-04-08,54,Gabriela Fajfer
+708,ContactSegment,Draft,2019-02-21,Michelle Low,ACA_FY19_Academia_IN_EN,2019-02-21,55,Michelle Low
+709,ContactSegment,Draft,2019-02-21,Gabriela Fajfer,SSD_1902_CR-UP_EP_IN_EN,2019-02-22,54,Gabriela Fajfer
+710,ContactSegment,Draft,2019-02-21,Gabriela Fajfer,SSD_1902_CR_EP_IN_EN,2019-02-21,54,Gabriela Fajfer
+711,ContactSegment,Draft,2019-02-21,Lindsay Chu,CSD_FY19_LC_ES_AF-05,2019-03-04,51,Lindsay Chu
+712,ContactSegment,Draft,2019-02-21,Lindsay Chu,LED_19_COMPL_SE_AF_R1,2019-03-04,51,Lindsay Chu
+713,ContactSegment,Draft,2019-02-21,Lindsay Chu,PAN_1906_ASMS_EX_AF-01_R1,2019-03-04,51,Lindsay Chu
+714,ContactSegment,Draft,2019-02-21,Fabiola Lopez,AZ_FY19_889060_SE_LA-03R,2019-02-21,61,Fabiola Lopez
+715,ContactSegment,Draft,2019-02-22,Michelle Low,SSD_1903_REG-WEB_ES_IN+EN,2019-03-01,59,Macarena Lopez-Mazzeo
+716,ContactSegment,Draft,2019-02-22,Macarena Lopez-Mazzeo,LI_1812_LCGCEBOOK2_EP_EM​_EN,2019-03-06,59,Macarena Lopez-Mazzeo
+717,ContactSegment,Draft,2019-02-22,Macarena Lopez-Mazzeo,LI_1812_LCGCEBOOK2_EP_AF​_EN,2019-03-12,64,Sabrina Zhuang
+718,ContactSegment,Draft,2019-02-22,Macarena Lopez-Mazzeo,LI_1812_LCGCEBOOK2_EP_IN,2019-02-28,55,Michelle Low
+719,ContactSegment,Draft,2019-02-22,Sabrina Zhuang,LI_1807_CSCasStudy_EP_IN,2019-02-22,64,Sabrina Zhuang
+720,ContactSegment,Draft,2019-02-22,Sabrina Zhuang,LI_1807_CSCasStudy_EP_EM,2019-02-23,64,Sabrina Zhuang
+721,ContactSegment,Draft,2019-02-22,Gabriela Fajfer,29_FY19_2DLCSOLU_EM-01,2019-03-01,59,Macarena Lopez-Mazzeo
+722,ContactSegment,Draft,2019-02-22,Gabriela Fajfer,LI_1805_UserMeet_DE_EM-3,2019-03-12,54,Gabriela Fajfer
+723,ContactSegment,Draft,2019-02-22,Gabriela Fajfer,29_1805_UserMeet_DE_EM_03,2019-03-18,54,Gabriela Fajfer
+724,ContactSegment,Draft,2019-02-22,Gabriela Fajfer,SSD_1902_eCR_EP_IN_EN,2019-02-22,54,Gabriela Fajfer
+725,ContactSegment,Draft,2019-02-22,Michelle Low,SSD_1902_AU-CE_EP_IN+EN,2019-02-22,55,Michelle Low
+726,ContactSegment,Draft,2019-02-22,Lindsay Chu,CSD_19_SUPERH_SE_AF-05_R1,2019-03-11,51,Lindsay Chu
+727,ContactSegment,Draft,2019-02-22,Lindsay Chu,89_1810_SQTRADE_EP_AF_W2,2019-02-22,51,Lindsay Chu
+728,ContactSegment,Draft,2019-02-23,Sabrina Zhuang,LI_1807_CSCasStudy_EP_AF,2019-02-23,64,Sabrina Zhuang
+729,ContactSegment,Draft,2019-02-25,Michelle Low,ACA_FY19_PTOMICS_AF-01+EN,2019-02-25,55,Michelle Low
+730,ContactSegment,Draft,2019-02-25,Macarena Lopez-Mazzeo,29_1904_LCTOUR_EM_02,2019-03-06,59,Macarena Lopez-Mazzeo
+731,ContactSegment,Draft,2019-02-25,Michelle Low,ACA_FY19_PTOMICS_LA-01+EN,2019-02-25,55,Michelle Low
+733,ContactSegment,Draft,2019-02-25,Michelle Low,ACA_FY19_PTOMICS_EM-01+EN,2019-02-25,55,Michelle Low
+734,ContactSegment,Draft,2019-02-25,Michelle Low,ACA_FY19_PTOMICS_IN-01+EN,2019-02-25,55,Michelle Low
+735,ContactSegment,Draft,2019-02-25,Michelle Low,ACA_FY19_PTOMICS_BR-01+PT,2019-03-06,55,Michelle Low
+736,ContactSegment,Draft,2019-02-25,Michelle Low,ACA_FY19_PTOMICS_EM-01+IT,2019-03-12,64,Sabrina Zhuang
+737,ContactSegment,Draft,2019-02-25,Michelle Low,ACA_FY19_PTOMICS_EM-01+DE,2019-03-12,64,Sabrina Zhuang
+738,ContactSegment,Draft,2019-02-25,Michelle Low,ACA_FY19_PTOMICS_EM-01+ES,2019-03-12,64,Sabrina Zhuang
+739,ContactSegment,Draft,2019-02-25,Michelle Low,ACA_FY19_PTOMICS_EM-01+FR,2019-03-12,64,Sabrina Zhuang
+740,ContactSegment,Draft,2019-02-25,Gabriela Fajfer,MA_FY19_CARY3500_TM_EM -EN,2019-02-25,54,Gabriela Fajfer
+741,ContactSegment,Draft,2019-02-25,Gabriela Fajfer,MA_FY19_CARY3500_TM_EM -ES,2019-02-25,54,Gabriela Fajfer
+742,ContactSegment,Draft,2019-02-25,Gabriela Fajfer,MA_FY19_CARY3500_TM_EM -DE,2019-02-25,54,Gabriela Fajfer
+743,ContactSegment,Draft,2019-02-25,Gabriela Fajfer,MA_FY19_CARY3500_TM_EM -FR,2019-02-25,54,Gabriela Fajfer
+744,ContactSegment,Draft,2019-02-25,Gabriela Fajfer,MA_FY19_CARY3500_TM_EM -IT,2019-02-25,54,Gabriela Fajfer
+745,ContactSegment,Draft,2019-02-25,Lindsay Chu,DGG_1905_SMASTR_EP_WW_BR,2019-02-25,51,Lindsay Chu
+746,ContactSegment,Draft,2019-02-25,Lindsay Chu,DGG_1905_SMASTR_EP_WW_BR_R1,2019-02-25,51,Lindsay Chu
+747,ContactSegment,Draft,2019-02-25,Lindsay Chu,DGG_1905_SMASTR_EP_WW_BR_R1,2019-03-22,55,Michelle Low
+748,ContactSegment,Draft,2019-02-25,Lindsay Chu,DGG_FY19_ONLINE_ES_BR-01,2019-02-25,51,Lindsay Chu
+749,ContactSegment,Draft,2019-02-25,Lindsay Chu,DGG_FY19_ONLINE_ES_BR-02,2019-02-25,51,Lindsay Chu
+752,ContactSegment,Draft,2019-02-25,Lindsay Chu,89_1809_MORE_SE_AF-22_R1,2019-02-25,51,Lindsay Chu
+753,ContactSegment,Draft,2019-02-25,Lindsay Chu,CSD_19_SUPERH_SE_AF-09-10,2019-03-04,51,Lindsay Chu
+756,ContactSegment,Draft,2019-02-25,Lindsay Chu,CSD_19_SUPERH_SE_AF-09-10_R1,2019-03-18,51,Lindsay Chu
+757,ContactSegment,Draft,2019-02-25,Lindsay Chu,CDX_FY19_PDL1MAIL_EP_BR,2019-02-25,51,Lindsay Chu
+758,ContactSegment,Draft,2019-02-26,Michelle Low,LED_FY19_COMPLWP4_EM+ES,2019-02-28,55,Michelle Low
+759,ContactSegment,Draft,2019-02-26,Michelle Low,LED_FY19_COMPLWP4_EM+DE,2019-02-28,55,Michelle Low
+760,ContactSegment,Draft,2019-02-26,Michelle Low,LED_FY19_COMPLWP4_EM+IT,2019-02-28,55,Michelle Low
+761,ContactSegment,Draft,2019-02-26,Michelle Low,LED_FY19_COMPLWP4_EM+FR,2019-02-28,55,Michelle Low
+762,ContactSegment,Draft,2019-02-26,Michelle Low,LED_FY19_COMPLWP4_BR+PT,2019-02-28,55,Michelle Low
+763,ContactSegment,Draft,2019-02-26,Yajuan Zhou,MA_FY19_8700LDIR_AF-01,2019-02-26,63,Yajuan Zhou
+764,ContactSegment,Draft,2019-02-26,Yajuan Zhou,MA_FY19_8700LDIR_LA-01,2019-02-26,63,Yajuan Zhou
+765,ContactSegment,Draft,2019-02-26,Sabrina Zhuang,ECM_FY19_Insights_AF-01,2019-03-01,59,Macarena Lopez-Mazzeo
+766,ContactSegment,Draft,2019-02-26,Sabrina Zhuang,ECM_FY19_Insights_EM-01,2019-03-06,59,Macarena Lopez-Mazzeo
+767,ContactSegment,Draft,2019-02-26,Sabrina Zhuang,ECM_FY19_Insights_LA-01,2019-02-26,64,Sabrina Zhuang
+768,ContactSegment,Draft,2019-02-26,Sabrina Zhuang,ECM_FY19_Insights_IN-01,2019-03-01,59,Macarena Lopez-Mazzeo
+769,ContactSegment,Draft,2019-02-26,Macarena Lopez-Mazzeo,DGG_1904_NIPD_ES_EM,2019-03-14,59,Macarena Lopez-Mazzeo
+770,ContactSegment,Draft,2019-02-26,Macarena Lopez-Mazzeo,DGG_1904_NIPD_ES_EM-02,2019-03-27,59,Macarena Lopez-Mazzeo
+771,ContactSegment,Draft,2019-02-26,Gabriela Fajfer,LI_FY19_Cloud_ES_EM-02,2019-02-27,54,Gabriela Fajfer
+772,ContactSegment,Draft,2019-02-26,Lindsay Chu,AZ_19_8890_SE_AF-14,2019-03-13,51,Lindsay Chu
+773,ContactSegment,Draft,2019-02-26,Lindsay Chu,CSD_19_SUPERH_SE_AF-11-12,2019-03-11,51,Lindsay Chu
+775,ContactSegment,Draft,2019-02-26,Lindsay Chu,DGG_1903_NSH_EX_AF_W2,2019-03-11,51,Lindsay Chu
+776,ContactSegment,Draft,2019-02-26,Lindsay Chu,PAN_FY19_ENEWS_EX_BR-01,2019-04-19,51,Lindsay Chu
+777,ContactSegment,Draft,2019-02-27,Gabriela Fajfer,LI_FY19_Cloud_ES_AF-02,2019-02-27,54,Gabriela Fajfer
+778,ContactSegment,Draft,2019-02-27,Macarena Lopez-Mazzeo,89_FY19_Streamsel_EM-01,2019-03-14,59,Macarena Lopez-Mazzeo
+779,ContactSegment,Draft,2019-02-27,Macarena Lopez-Mazzeo,DGG_1812_NUMCOM_EP_EM,2019-02-27,59,Macarena Lopez-Mazzeo
+783,ContactSegment,Draft,2019-02-28,Yajuan Zhou,MA_FY19_8700LDIR_EM-01-FR,2019-04-04,63,Yajuan Zhou
+784,ContactSegment,Draft,2019-02-28,Yajuan Zhou,MA_FY19_8700LDIR_EM-01-IT,2019-04-04,63,Yajuan Zhou
+785,ContactSegment,Draft,2019-02-28,Yajuan Zhou,MA_FY19_8700LDIR_EM-01-DE,2019-04-04,63,Yajuan Zhou
+786,ContactSegment,Draft,2019-02-28,Yajuan Zhou,MA_FY19_8700LDIR_EM-01-ES,2019-04-08,54,Gabriela Fajfer
+787,ContactSegment,Draft,2019-02-28,Yajuan Zhou,MA_FY19_8700LDIR_EM-01-EN,2019-02-28,63,Yajuan Zhou
+788,ContactSegment,Draft,2019-02-28,Yajuan Zhou,MA_FY19_8700LDIR_IN-01,2019-02-28,63,Yajuan Zhou
+789,ContactSegment,Draft,2019-02-28,Michelle Low,DGG_1810_REPLIG_EM_IN+EN,2019-02-28,55,Michelle Low
+790,ContactSegment,Draft,2019-02-28,Michelle Low,DGG_1901_NGSTT_ES_IN+EN,2019-03-01,55,Michelle Low
+791,ContactSegment,Draft,2019-02-28,Gabriela Fajfer,SSD_1904_ILAB_SE_EM,2019-03-14,59,Macarena Lopez-Mazzeo
+792,ContactSegment,Draft,2019-02-28,Michelle Low,29_1903_DDGMEET_EP_IN+EN,2019-03-01,55,Michelle Low
+793,ContactSegment,Draft,2019-02-28,Yajuan Zhou,CSD_FY19_AA-EDUC_AF-01,2019-03-12,51,Lindsay Chu
+794,ContactSegment,Draft,2019-02-28,Macarena Lopez-Mazzeo,89_1905_LCMSHAN_SE_EM,2019-02-28,59,Macarena Lopez-Mazzeo
+796,ContactSegment,Draft,2019-02-28,Macarena Lopez-Mazzeo,89_1905_LCMSHAN_SE_EM_03,2019-04-30,59,Macarena Lopez-Mazzeo
+797,ContactSegment,Draft,2019-02-28,Michael Mcgonigal,AZ_FY19_GPWEBMAR_EM-01-EN,2019-02-28,25,Michael Mcgonigal
+798,ContactSegment,Draft,2019-02-28,Michael Mcgonigal,AZ_FY19_GPWEBMAR_EM-01-FR,2019-03-07,59,Macarena Lopez-Mazzeo
+799,ContactSegment,Draft,2019-02-28,Michael Mcgonigal,AZ_FY19_GPWEBMAR_EM-01-IT,2019-03-07,59,Macarena Lopez-Mazzeo
+800,ContactSegment,Draft,2019-02-28,Michael Mcgonigal,AZ_FY19_GPWEBMAR_EM-01-DE,2019-03-07,59,Macarena Lopez-Mazzeo
+801,ContactSegment,Draft,2019-02-28,Michael Mcgonigal,AZ_FY19_GPWEBMAR_EM-01-ES,2019-03-07,59,Macarena Lopez-Mazzeo
+802,ContactSegment,Draft,2019-02-28,Lindsay Chu,PAN_1902_SLAS_EX_AF_Post,2019-03-12,64,Sabrina Zhuang
+803,ContactSegment,Draft,2019-03-01,Michelle Low,29_1902_ALLIANCESW2_EP_IN+EN,2019-03-11,55,Michelle Low
+804,ContactSegment,Draft,2019-03-01,Yajuan Zhou,CSD_FY19_AA-EDUC_LA-01,2019-03-01,63,Yajuan Zhou
+805,ContactSegment,Draft,2019-03-01,Yajuan Zhou,CSD_FY19_AA-EDUC_IN-01,2019-03-01,63,Yajuan Zhou
+806,ContactSegment,Draft,2019-03-01,Yajuan Zhou,CSD_FY19_AA-EDUC_EM-01-FR,2019-03-29,64,Sabrina Zhuang
+807,ContactSegment,Draft,2019-03-01,Yajuan Zhou,CSD_FY19_AA-EDUC_EM-01-EN,2019-03-14,59,Macarena Lopez-Mazzeo
+808,ContactSegment,Draft,2019-03-01,Michelle Low,FOR_FY19_Insights_IN-01+EN+central,2019-03-11,55,Michelle Low
+809,ContactSegment,Draft,2019-03-01,Michelle Low,PHA_FY19_INSIGHT_IN-01+EN+central,2019-03-11,55,Michelle Low
+810,ContactSegment,Draft,2019-03-01,Michelle Low,CRS_FY19_INSIGHT_IN-01+EN+central,2019-03-01,55,Michelle Low
+811,ContactSegment,Draft,2019-03-01,Michelle Low,ENV_FY19_Insights_IN-01+EN+central,2019-03-11,55,Michelle Low
+812,ContactSegment,Draft,2019-03-01,Michelle Low,MAT_FY19_Insights_IN-01+EN+central,2019-03-11,55,Michelle Low
+813,ContactSegment,Draft,2019-03-01,Gabriela Fajfer,LI_FY19_Cloud_ES_IN-02,2019-03-01,54,Gabriela Fajfer
+814,ContactSegment,Draft,2019-03-01,Macarena Lopez-Mazzeo,89_FY19_Streamsel_AF-01,2019-03-12,64,Sabrina Zhuang
+815,ContactSegment,Draft,2019-03-01,Lindsay Chu,ATO_FY19_WSMINERIO_DE_BR,2019-03-01,51,Lindsay Chu
+816,ContactSegment,Draft,2019-03-01,Lindsay Chu,CRS_1901_MSACL_EX_AF_W2,2019-03-20,51,Lindsay Chu
+817,ContactSegment,Draft,2019-03-01,Lindsay Chu,AZ_FY19_RSINTSP_SE_BR,2019-03-01,51,Lindsay Chu
+818,ContactSegment,Draft,2019-03-01,Lindsay Chu,DGG_1901_GENAV_WE_WW_AF_W2,2019-03-22,55,Michelle Low
+819,ContactSegment,Draft,2019-03-01,Lindsay Chu,DGG_1901_GENAV_WE_WW_AF,2019-03-04,51,Lindsay Chu
+820,ContactSegment,Draft,2019-03-02,Macarena Lopez-Mazzeo,CSD_19_GCIFP1_BR-01,2019-03-02,59,Macarena Lopez-Mazzeo
+821,ContactSegment,Draft,2019-03-02,Macarena Lopez-Mazzeo,VI_FY19_BravMeta_LA-01,2019-03-22,55,Michelle Low
+822,ContactSegment,Draft,2019-03-03,Michael Mcgonigal,AZ_FY19_GPWEBMAR_LA-01,2019-03-03,25,Michael Mcgonigal
+823,ContactSegment,Draft,2019-03-04,Yajuan Zhou,MA_FY19_CARY3500_LAR-04-ES,2019-03-04,63,Yajuan Zhou
+824,ContactSegment,Draft,2019-03-04,Yajuan Zhou,LED_FY19_RBRisk_AF-01,2019-03-12,51,Lindsay Chu
+825,ContactSegment,Draft,2019-03-04,Sabrina Zhuang,CSD_FY19_AA-EDUC_EM-01-IT,2019-03-29,64,Sabrina Zhuang
+826,ContactSegment,Draft,2019-03-04,Sabrina Zhuang,CSD_FY19_AA-EDUC_EM-01-DE,2019-03-22,64,Sabrina Zhuang
+827,ContactSegment,Draft,2019-03-04,Sabrina Zhuang,CSD_FY19_AA-EDUC_EM-01-ES,2019-03-29,64,Sabrina Zhuang
+828,ContactSegment,Draft,2019-03-04,Sabrina Zhuang,FOD_FY19_Insights_AF-08,2019-03-12,64,Sabrina Zhuang
+829,ContactSegment,Draft,2019-03-04,Sabrina Zhuang,FOD_FY19_Insights_EM-08,2019-03-12,64,Sabrina Zhuang
+830,ContactSegment,Draft,2019-03-04,Sabrina Zhuang,FOD_FY19_Insights_LA-08,2019-03-12,64,Sabrina Zhuang
+831,ContactSegment,Draft,2019-03-04,Michelle Low,RM_FY19_RAPIDKIT_AF-01-EN,2019-04-30,55,Michelle Low
+832,ContactSegment,Draft,2019-03-04,Michelle Low,RM_FY19_RAPIDKIT_LA-01+EN,2019-03-04,55,Michelle Low
+833,ContactSegment,Draft,2019-03-04,Sabrina Zhuang,FOD_FY19_Insights_IN-08,2019-03-12,64,Sabrina Zhuang
+834,ContactSegment,Draft,2019-03-04,Michelle Low,RM_FY19_RAPIDKIT_EM-01-EN,2019-03-20,55,Michelle Low
+835,ContactSegment,Draft,2019-03-04,Michelle Low,RM_FY19_RAPIDKIT_IN-01+EN,2019-04-04,55,Michelle Low
+836,ContactSegment,Draft,2019-03-04,Sabrina Zhuang,FOD_FY19_Insights_BR-08,2019-03-20,64,Sabrina Zhuang
+837,ContactSegment,Draft,2019-03-04,Gabriela Fajfer,BZ_1903_GCQTOFOR_EM-01,2019-03-22,64,Sabrina Zhuang
+838,ContactSegment,Draft,2019-03-04,Gabriela Fajfer,DGG_1904_CIGH_EM-01,2019-03-12,64,Sabrina Zhuang
+839,ContactSegment,Draft,2019-03-04,Macarena Lopez-Mazzeo,CSD_FY19_LCTIPSCH_EM,2019-03-13,54,Gabriela Fajfer
+840,ContactSegment,Draft,2019-03-04,Macarena Lopez-Mazzeo,CSD_FY19_LCTIPSCH_EM-02,2019-04-17,59,Macarena Lopez-Mazzeo
+841,ContactSegment,Draft,2019-03-05,Yajuan Zhou,LED_FY19_Fin101_AF-03,2019-03-27,63,Yajuan Zhou
+842,ContactSegment,Draft,2019-03-05,Sabrina Zhuang,CSD_FY19_ADV_AMINO_AF-01,2019-03-13,63,Yajuan Zhou
+843,ContactSegment,Draft,2019-03-05,Sabrina Zhuang,CSD_FY19_ADV_AMINO_LA-01,2019-03-05,64,Sabrina Zhuang
+844,ContactSegment,Draft,2019-03-05,Michael Mcgonigal,AZ_FY19_GPWEBMAR_PT-01,2019-03-05,25,Michael Mcgonigal
+845,ContactSegment,Draft,2019-03-05,Ena Mladin,Test_DnB Accounts Health Scan,2019-03-05,58,Ena Mladin
+846,ContactSegment,Draft,2019-03-05,Ena Mladin,Test DnB Leads,2019-03-05,58,Ena Mladin
+847,ContactSegment,Draft,2019-03-05,Michael Mcgonigal,AZ_FY19_GPWEBMAR_AF-01,2019-03-13,25,Michael Mcgonigal
+848,ContactSegment,Draft,2019-03-06,Michelle Low,ACA_FY19_Academia_IN_EN,2019-03-06,55,Michelle Low
+849,ContactSegment,Draft,2019-03-06,Macarena Lopez-Mazzeo,DGG_1901_PDL1OMNIS_EP_EM,2019-03-06,59,Macarena Lopez-Mazzeo
+850,ContactSegment,Draft,2019-03-06,Macarena Lopez-Mazzeo,LED_1904_ILABOSLO_SE_EI  ,2019-04-01,59,Macarena Lopez-Mazzeo
+851,ContactSegment,Draft,2019-03-06,Gabriela Fajfer,MA_1904_UVVIS_ES_EM-W2,2019-03-13,54,Gabriela Fajfer
+852,ContactSegment,Draft,2019-03-06,Gabriela Fajfer,ATO_1904_WATERICP_ES_EM-W2,2019-03-29,64,Sabrina Zhuang
+853,ContactSegment,Draft,2019-03-06,Lindsay Chu,DGG_1901_NGSTT_ES_WW-01_AF,2019-03-22,55,Michelle Low
+854,ContactSegment,Draft,2019-03-06,Lindsay Chu,DGG_1905_SMASTR_EP_WW_AF_R1,2019-03-18,51,Lindsay Chu
+855,ContactSegment,Draft,2019-03-06,Lindsay Chu,DGG_1902_SURECALL_EP_WW_AF,2019-03-06,51,Lindsay Chu
+856,ContactSegment,Draft,2019-03-06,Lindsay Chu,DGG_1902_SURECALL_EP_WW_BR,2019-03-06,51,Lindsay Chu
+857,ContactSegment,Draft,2019-03-06,Lindsay Chu,89_1809_MORE_SE_AF-15_R1,2019-03-06,51,Lindsay Chu
+858,ContactSegment,Draft,2019-03-06,Lindsay Chu,PAN_FY19_WSMATRIZ_SE_BR,2019-03-22,55,Michelle Low
+859,ContactSegment,Draft,2019-03-06,Lindsay Chu,SSD_19_FSP_EP_AF,2019-03-22,55,Michelle Low
+860,ContactSegment,Draft,2019-03-06,Lindsay Chu,DGG_1904_HOUCGHNGS_SE_AF_W2,2019-03-06,51,Lindsay Chu
+861,ContactSegment,Draft,2019-03-06,Lindsay Chu,LED_19_MVSPROMO_EP_AF_W3,2019-03-22,55,Michelle Low
+862,ContactSegment,Draft,2019-03-07,Yajuan Zhou,CSD_FY19_EC-AWR-QTE_AF,2019-03-22,55,Michelle Low
+864,ContactSegment,Draft,2019-03-07,Macarena Lopez-Mazzeo,ATO_FY19_CEMAT_EM_02_DE,2019-03-11,59,Macarena Lopez-Mazzeo
+865,ContactSegment,Draft,2019-03-07,Lindsay Chu,PAN_1906_ASMS_EX_AF-02_W2,2019-03-07,51,Lindsay Chu
+866,ContactSegment,Draft,2019-03-07,Lindsay Chu,ATO_19_ATOWEB_ES_AF-04,2019-03-07,51,Lindsay Chu
+867,ContactSegment,Draft,2019-03-07,Lindsay Chu,MA_19_MAWEB_ES_AF-05,2019-03-24,55,Michelle Low
+868,ContactSegment,Draft,2019-03-07,Lindsay Chu,ACA_19_CMS_EDU_AF-06,2019-03-22,55,Michelle Low
+869,ContactSegment,Draft,2019-03-07,Sindhuri Manda,XF_FY19_BRAVOXF_EM_EN,2019-03-13,54,Gabriela Fajfer
+870,ContactSegment,Draft,2019-03-07,Fabiola Lopez,PAN_FY19_ZOOM_ES_LA-04,2019-03-07,61,Fabiola Lopez
+871,ContactSegment,Draft,2019-03-08,Sabrina Zhuang,ACA_FY19_INSIGHTS_IN-01,2019-03-08,64,Sabrina Zhuang
+872,ContactSegment,Draft,2019-03-08,Sabrina Zhuang,ACA_FY19_INSIGHTS_AF-01,2019-03-12,51,Lindsay Chu
+873,ContactSegment,Draft,2019-03-08,Sabrina Zhuang,ACA_FY19_INSIGHTS_EM-01,2019-03-08,64,Sabrina Zhuang
+875,ContactSegment,Draft,2019-03-08,Sindhuri Manda,XF_FY19_BRAVOXF_EM_DE,2019-03-08,62,Sindhuri Manda
+876,ContactSegment,Draft,2019-03-08,Sindhuri Manda,XF_FY19_BRAVOXF_EM_ES,2019-03-08,62,Sindhuri Manda
+877,ContactSegment,Draft,2019-03-08,Sindhuri Manda,XF_FY19_BRAVOXF_EM_FR,2019-03-08,62,Sindhuri Manda
+878,ContactSegment,Draft,2019-03-08,Sindhuri Manda,XF_FY19_BRAVOXF_EM_IT,2019-03-08,62,Sindhuri Manda
+879,ContactSegment,Draft,2019-03-08,Sabrina Zhuang,ACA_FY19_INSIGHTS_LA-01,2019-03-12,64,Sabrina Zhuang
+880,ContactSegment,Draft,2019-03-08,Michelle Low,29_1903_DISOEXP_EP_IN+EN,2019-03-11,55,Michelle Low
+882,ContactSegment,Draft,2019-03-11,Yajuan Zhou,CSD_FY19_EC-AWR-QTE_EM-FR-v2,2019-05-17,63,Yajuan Zhou
+883,ContactSegment,Draft,2019-03-11,Yajuan Zhou,CSD_FY19_EC-AWR-QTE_EM-IT-v2,2019-05-17,63,Yajuan Zhou
+884,ContactSegment,Draft,2019-03-11,Yajuan Zhou,CSD_FY19_EC-AWR-QTE_EM-DE-v2,2019-05-17,63,Yajuan Zhou
+885,ContactSegment,Draft,2019-03-11,Yajuan Zhou,CSD_FY19_EC-AWR-QTE_EM-ES-v2,2019-05-17,63,Yajuan Zhou
+886,ContactSegment,Draft,2019-03-11,Yajuan Zhou,CSD_FY19_EC-AWR-QTE_EM-EN,2019-03-22,55,Michelle Low
+887,ContactSegment,Draft,2019-03-11,Macarena Lopez-Mazzeo,CSD_19_GCFILTH_EM-01_EN,2019-04-03,59,Macarena Lopez-Mazzeo
+888,ContactSegment,Draft,2019-03-11,Macarena Lopez-Mazzeo,CSD_19_GCFILTH_EM-01_SP,2019-04-03,59,Macarena Lopez-Mazzeo
+889,ContactSegment,Draft,2019-03-11,Macarena Lopez-Mazzeo,CSD_19_GCFILTH_EM-01_DE,2019-04-03,59,Macarena Lopez-Mazzeo
+890,ContactSegment,Draft,2019-03-11,Macarena Lopez-Mazzeo,CSD_19_GCFILTH_EM-01_FR,2019-04-03,59,Macarena Lopez-Mazzeo
+891,ContactSegment,Draft,2019-03-11,Macarena Lopez-Mazzeo,CSD_19_GCFILTH_EM-01_IT,2019-04-03,59,Macarena Lopez-Mazzeo
+892,ContactSegment,Draft,2019-03-11,Macarena Lopez-Mazzeo,CSD_19_GCFILTH_AF-01_EN,2019-03-22,55,Michelle Low
+893,ContactSegment,Draft,2019-03-11,Macarena Lopez-Mazzeo,CSD_19_GCFILTH_LA-01_EN,2019-03-11,59,Macarena Lopez-Mazzeo
+894,ContactSegment,Draft,2019-03-11,Macarena Lopez-Mazzeo,CSD_19_GCFILTH_IN-01_EN,2019-03-11,59,Macarena Lopez-Mazzeo
+895,ContactSegment,Draft,2019-03-11,Macarena Lopez-Mazzeo,CSD_19_GCFILTH_BR-01_PT,2019-03-11,59,Macarena Lopez-Mazzeo
+896,ContactSegment,Draft,2019-03-11,Michael Mcgonigal,AZ_FY19_GPWEBMAR_IN-01,2019-03-11,25,Michael Mcgonigal
+897,ContactSegment,Draft,2019-03-11,Macarena Lopez-Mazzeo,DGG_1903_CELL_EP_EM_EN,2019-03-26,59,Macarena Lopez-Mazzeo
+898,ContactSegment,Draft,2019-03-11,Michelle Low,ENV_FY19_NTLP_AF_01+EN,2019-05-01,55,Michelle Low
+899,ContactSegment,Draft,2019-03-11,Michael Mcgonigal,AZ_FY19_NXWEBAPR_AF-01,2019-03-24,55,Michelle Low
+900,ContactSegment,Draft,2019-03-11,Michael Mcgonigal,AZ_FY19_NXWEBAPR_IN-01,2019-03-15,25,Michael Mcgonigal
+901,ContactSegment,Draft,2019-03-11,Michael Mcgonigal,AZ_FY19_NXWEBAPR_EM-01-ES,2019-03-29,64,Sabrina Zhuang
+902,ContactSegment,Draft,2019-03-11,Michael Mcgonigal,AZ_FY19_NXWEBAPR_EM-01-DE,2019-03-26,54,Gabriela Fajfer
+903,ContactSegment,Draft,2019-03-11,Michael Mcgonigal,AZ_FY19_NXWEBAPR_EM-01-IT,2019-03-26,54,Gabriela Fajfer
+904,ContactSegment,Draft,2019-03-11,Michael Mcgonigal,AZ_FY19_NXWEBAPR_EM-01-FR,2019-03-26,54,Gabriela Fajfer
+905,ContactSegment,Draft,2019-03-11,Michael Mcgonigal,AZ_FY19_NXWEBAPR_PT-01,2019-03-11,25,Michael Mcgonigal
+906,ContactSegment,Draft,2019-03-11,Michael Mcgonigal,AZ_FY19_NXWEBAPR_LA-01,2019-03-11,25,Michael Mcgonigal
+907,ContactSegment,Draft,2019-03-11,Michael Mcgonigal,AZ_FY19_NXWEBAPR_EM-01-EN,2019-03-26,54,Gabriela Fajfer
+908,ContactSegment,Draft,2019-03-12,Gabriela Fajfer,TEST,2019-03-12,54,Gabriela Fajfer
+909,ContactSegment,Draft,2019-03-12,Sindhuri Manda,AAM_FY19_QTOFPROM_EM-01,2019-03-29,64,Sabrina Zhuang
+910,ContactSegment,Draft,2019-03-12,Sabrina Zhuang,CSD_FY19_ADV_AMINO_EM-01_EN,2019-03-14,59,Macarena Lopez-Mazzeo
+911,ContactSegment,Draft,2019-03-12,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_LA-02_EN,2019-03-22,55,Michelle Low
+912,ContactSegment,Draft,2019-03-12,Sabrina Zhuang,CSD_FY19_ADV_AMINO_EM-01_FR,2019-03-14,64,Sabrina Zhuang
+913,ContactSegment,Draft,2019-03-12,Sabrina Zhuang,CSD_FY19_ADV_AMINO_EM-01_IT,2019-03-14,64,Sabrina Zhuang
+914,ContactSegment,Draft,2019-03-12,Sabrina Zhuang,CSD_FY19_ADV_AMINO_EM-01_DE,2019-03-14,64,Sabrina Zhuang
+915,ContactSegment,Draft,2019-03-12,Sabrina Zhuang,CSD_FY19_ADV_AMINO_EM-01_ES,2019-03-14,64,Sabrina Zhuang
+916,ContactSegment,Draft,2019-03-12,Sabrina Zhuang,CSD_FY19_ADV_AMINO_IN-01,2019-03-12,64,Sabrina Zhuang
+917,ContactSegment,Draft,2019-03-12,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_EM-02_EN,2019-04-03,59,Macarena Lopez-Mazzeo
+918,ContactSegment,Draft,2019-03-12,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_EM-02_SP,2019-04-08,54,Gabriela Fajfer
+919,ContactSegment,Draft,2019-03-12,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_EM-02_DE,2019-04-03,59,Macarena Lopez-Mazzeo
+920,ContactSegment,Draft,2019-03-12,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_EM-02_FR,2019-04-08,54,Gabriela Fajfer
+921,ContactSegment,Draft,2019-03-12,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_EM-02_IT,2019-04-08,54,Gabriela Fajfer
+922,ContactSegment,Draft,2019-03-12,Manjunath KM,Bounced- Emails,2019-03-13,31,Manjunath KM
+923,ContactSegment,Draft,2019-03-12,Lindsay Chu,AZ_19_8890_SE_AF-18,2019-03-25,51,Lindsay Chu
+924,ContactSegment,Draft,2019-03-12,Lindsay Chu,MA_19_MAWEB_ES_AF-07,2019-04-10,51,Lindsay Chu
+925,ContactSegment,Draft,2019-03-12,Lindsay Chu,ATO_19_ATOWEB_ES_AF-06,2019-04-08,51,Lindsay Chu
+927,ContactSegment,Draft,2019-03-12,Lindsay Chu,ACA_19_CMS_EDU_AF-11,2019-04-25,55,Michelle Low
+928,ContactSegment,Draft,2019-03-12,Gabriela Fajfer,29_FY19_2DLCSOLU_EM-02,2019-03-12,54,Gabriela Fajfer
+929,ContactSegment,Draft,2019-03-12,Lindsay Chu,DGG_1903_AACR_EX_AF,2019-03-12,51,Lindsay Chu
+930,ContactSegment,Draft,2019-03-12,Lindsay Chu,DGG_1904_ACMG_EX_AF,2019-03-13,63,Yajuan Zhou
+933,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_AF-03-EN,2019-04-22,55,Michelle Low
+934,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_LA-03-EN,2019-04-22,55,Michelle Low
+935,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_BR-03-PT,2019-03-22,55,Michelle Low
+936,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-03-EN,2019-04-22,55,Michelle Low
+937,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-03-FR,2019-03-22,55,Michelle Low
+938,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-03-IT,2019-03-22,55,Michelle Low
+939,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-03-DE,2019-03-22,55,Michelle Low
+940,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-03-ES,2019-03-22,55,Michelle Low
+941,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_IN-03-EN,2019-04-22,55,Michelle Low
+942,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_SA-03-EN,2019-04-22,55,Michelle Low
+943,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_SA-03-KR,2019-03-22,55,Michelle Low
+944,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_AF-04-EN,2019-04-22,55,Michelle Low
+945,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_LA-04-EN,2019-04-22,55,Michelle Low
+946,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_BR-04-PT,2019-06-03,55,Michelle Low
+947,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-04-EN,2019-04-22,55,Michelle Low
+948,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-04-FR,2019-06-03,55,Michelle Low
+949,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-04-IT,2019-06-03,55,Michelle Low
+950,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-04-DE,2019-06-03,55,Michelle Low
+951,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-04-ES,2019-06-03,55,Michelle Low
+952,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_IN-04-EN,2019-04-22,55,Michelle Low
+953,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_SA-04​-EN,2019-04-22,55,Michelle Low
+954,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_SA-04-KR,2019-06-03,55,Michelle Low
+955,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_AF-05-EN,2019-04-22,55,Michelle Low
+957,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_LA-05-EN,2019-04-22,55,Michelle Low
+958,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_BR-05-PT,2019-06-03,55,Michelle Low
+959,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-05-EN,2019-04-22,55,Michelle Low
+960,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-05-FR,2019-06-03,55,Michelle Low
+961,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-05-IT,2019-06-03,55,Michelle Low
+962,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-05-DE,2019-06-03,55,Michelle Low
+963,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_EM-05-ES,2019-06-03,55,Michelle Low
+964,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_IN-05-EN,2019-04-22,55,Michelle Low
+965,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_SA-05​-EN,2019-04-22,55,Michelle Low
+966,ContactSegment,Draft,2019-03-13,Michelle Low,CSD_FY19_CSULTRA_SA-05-KR,2019-06-03,55,Michelle Low
+967,ContactSegment,Draft,2019-03-13,Sindhuri Manda,AAM_FY19_QTOFPROM_BR-01,2019-03-22,55,Michelle Low
+968,ContactSegment,Draft,2019-03-13,Yajuan Zhou,LED_FY19_RBRisk_AF-01_v2,2019-03-13,63,Yajuan Zhou
+969,ContactSegment,Draft,2019-03-13,Yajuan Zhou,LED_FY19_RBTRADEIN_EP_EM-02+IT,2019-03-22,55,Michelle Low
+970,ContactSegment,Draft,2019-03-13,Yajuan Zhou,LED_FY19_RBTRADEIN_EP_EM-02+ES,2019-03-22,55,Michelle Low
+971,ContactSegment,Draft,2019-03-13,Yajuan Zhou,LED_FY19_RBTRADEIN_EP_EM-02+EN,2019-03-22,55,Michelle Low
+972,ContactSegment,Draft,2019-03-13,Macarena Lopez-Mazzeo,DGG_1901_GENAV_WE_EM+EN,2019-03-22,64,Sabrina Zhuang
+973,ContactSegment,Draft,2019-03-13,Macarena Lopez-Mazzeo,DGG_1811_MASTRSW_EP_EM+EN,2019-04-08,64,Sabrina Zhuang
+974,ContactSegment,Draft,2019-03-13,Michael Mcgonigal,AZ_FY19_GPWEBMAR_AF-01b,2019-03-15,25,Michael Mcgonigal
+975,ContactSegment,Draft,2019-03-13,Michael Mcgonigal,CSD_FY19_CONECOMP_AF-01+EN,2019-03-15,51,Lindsay Chu
+976,ContactSegment,Draft,2019-03-13,Lindsay Chu,89_1809_MORE_SE_AF-24_R1,2019-03-13,51,Lindsay Chu
+977,ContactSegment,Draft,2019-03-13,Lindsay Chu,89_1809_MORE_SE_AF-25_R1,2019-03-13,51,Lindsay Chu
+978,ContactSegment,Draft,2019-03-13,Lindsay Chu,89_1809_MORE_SE_AF-26_R1,2019-03-13,51,Lindsay Chu
+979,ContactSegment,Draft,2019-03-13,Gabriela Fajfer,SSD_1903_eCR_EP_IN_EN,2019-03-13,54,Gabriela Fajfer
+980,ContactSegment,Draft,2019-03-13,Gabriela Fajfer,SSD_1903_CR_EP_IN_EN,2019-03-13,54,Gabriela Fajfer
+981,ContactSegment,Draft,2019-03-13,Gabriela Fajfer,SSD_1903_CR-UP_EP_IN_EN,2019-03-15,54,Gabriela Fajfer
+982,ContactSegment,Draft,2019-03-13,Gabriela Fajfer,SSD_1903_CR_EP_EM_EN,2019-03-15,54,Gabriela Fajfer
+983,ContactSegment,Draft,2019-03-13,Gabriela Fajfer,SSD_1903_CR-UP_EP_EM_EN,2019-03-15,54,Gabriela Fajfer
+984,ContactSegment,Draft,2019-03-13,Gabriela Fajfer,SSD_1903_eCR_EP_EM_IT,2019-03-15,54,Gabriela Fajfer
+985,ContactSegment,Draft,2019-03-13,Gabriela Fajfer,SSD_1903_eCR_EP_EM_DE,2019-03-15,54,Gabriela Fajfer
+987,ContactSegment,Draft,2019-03-13,Gabriela Fajfer,SSD_1903_eCR_EP_EM_FR,2019-03-15,54,Gabriela Fajfer
+988,ContactSegment,Draft,2019-03-13,Gabriela Fajfer,SSD_1903_eCR_EP_EM_ES,2019-03-15,54,Gabriela Fajfer
+989,ContactSegment,Draft,2019-03-13,Gabriela Fajfer,SSD_1903_eCR_EP_EM_EN,2019-03-13,54,Gabriela Fajfer
+990,ContactSegment,Draft,2019-03-14,Fabiola Lopez,PAN_FY19_ZOOM_ES_LA-05,2019-03-14,61,Fabiola Lopez
+992,ContactSegment,Draft,2019-03-14,Macarena Lopez-Mazzeo,RESEARCH,2019-03-14,59,Macarena Lopez-Mazzeo
+993,ContactSegment,Draft,2019-03-14,Michael Mcgonigal,CSD_FY19_CONECOMP_EM-01+EN,2019-03-14,25,Michael Mcgonigal
+994,ContactSegment,Draft,2019-03-14,Michael Mcgonigal,CSD_FY19_CONECOMP_EM-01+ES,2019-03-14,25,Michael Mcgonigal
+995,ContactSegment,Draft,2019-03-14,Michael Mcgonigal,CSD_FY19_CONECOMP_EM-01+DE,2019-03-14,25,Michael Mcgonigal
+996,ContactSegment,Draft,2019-03-14,Michael Mcgonigal,CSD_FY19_CONECOMP_EM-01+IT,2019-03-14,25,Michael Mcgonigal
+997,ContactSegment,Draft,2019-03-14,Michael Mcgonigal,CSD_FY19_CONECOMP_EM-01+FR,2019-03-14,25,Michael Mcgonigal
+998,ContactSegment,Draft,2019-03-14,Michael Mcgonigal,CSD_FY19_CONECOMP_LA-01+EN,2019-03-14,25,Michael Mcgonigal
+999,ContactSegment,Draft,2019-03-14,Lindsay Chu,DGG_1903_MASTRREPPATCH_AF,2019-03-14,51,Lindsay Chu
+1001,ContactSegment,Draft,2019-03-14,Lindsay Chu,DGG_1903_MASTRREPPATCH_BR,2019-03-14,51,Lindsay Chu
+1002,ContactSegment,Draft,2019-03-15,Fabiola Lopez,PAN_FY19_EXPOFAR_EX_LA,2019-03-15,61,Fabiola Lopez
+1003,ContactSegment,Draft,2019-03-15,Sabrina Zhuang,ECM_FY19_Insights_BR-01,2019-03-27,64,Sabrina Zhuang
+1004,ContactSegment,Draft,2019-03-15,Macarena Lopez-Mazzeo,AZ_1904_8890LAINC_SE_EM+EN,2019-03-22,64,Sabrina Zhuang
+1006,ContactSegment,Draft,2019-03-15,Michelle Low,VPD_19_TRNSCTNL_EM-02-EN,2019-03-22,64,Sabrina Zhuang
+1007,ContactSegment,Draft,2019-03-15,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_BR-02+PT,2019-03-22,55,Michelle Low
+1008,ContactSegment,Draft,2019-03-15,Lindsay Chu,CSD_19_SUPERH_SE_AF-11-12_R1,2019-04-03,51,Lindsay Chu
+1009,ContactSegment,Draft,2019-03-15,Lindsay Chu,CSD_FY19_LC_ES_AF-06,2019-03-18,51,Lindsay Chu
+1010,ContactSegment,Draft,2019-03-18,Sabrina Zhuang,CSD_FY19_ADV_AMINO_BR-01_PT,2019-03-18,64,Sabrina Zhuang
+1011,ContactSegment,Draft,2019-03-18,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_AF-02+EN,2019-03-27,63,Yajuan Zhou
+1012,ContactSegment,Draft,2019-03-18,Macarena Lopez-Mazzeo,ATO_1904_ICPOES_SE_EM,2019-04-04,59,Macarena Lopez-Mazzeo
+1013,ContactSegment,Draft,2019-03-18,Lindsay Chu,DGG_1901_NGSTT_ES_WW-01_BR,2019-03-22,55,Michelle Low
+1014,ContactSegment,Draft,2019-03-18,Gabriela Fajfer,MA_FY19_APPNOTE_EM-02,2019-04-11,54,Gabriela Fajfer
+1015,ContactSegment,Draft,2019-03-18,Sindhuri Manda,XF_FY19_BRAVOXF_AF,2019-03-22,55,Michelle Low
+1016,ContactSegment,Draft,2019-03-19,Gabriela Fajfer,29_FY19_1260Demo_EM-01_W2,2019-04-05,54,Gabriela Fajfer
+1018,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_RAPIDKIT_SA-01-KR,2019-03-19,55,Michelle Low
+1019,ContactSegment,Draft,2019-03-19,Michelle Low,VI_FY19_BravMeta_SA-01-EN,2019-03-22,55,Michelle Low
+1020,ContactSegment,Draft,2019-03-19,Michelle Low,CSD_19_GCIFP1_SA-01-KR,2019-04-03,59,Macarena Lopez-Mazzeo
+1021,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_AF-01-EN,2019-05-02,64,Sabrina Zhuang
+1022,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_LA-01-EN,2019-03-19,55,Michelle Low
+1023,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_EM-01-EN,2019-05-16,64,Sabrina Zhuang
+1024,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_IN-01-EN,2019-04-01,55,Michelle Low
+1025,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_SA-01-EN,2019-04-10,51,Lindsay Chu
+1026,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_SA-01-KR,2019-04-10,51,Lindsay Chu
+1027,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_AF-02-EN,2019-07-23,55,Michelle Low
+1028,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_LA-02-EN,2019-07-23,55,Michelle Low
+1029,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_EM-02-EN,2019-07-29,69,Craig Barnes
+1030,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_IN-02-EN,2019-07-23,55,Michelle Low
+1032,ContactSegment,Draft,2019-03-19,Michelle Low,RM_FY19_TRSRESOURC_SA-02-KR,2019-07-23,55,Michelle Low
+1033,ContactSegment,Draft,2019-03-19,Yajuan Zhou,LED_FY19_RBRisk_EM-01-FR,2019-03-19,63,Yajuan Zhou
+1034,ContactSegment,Draft,2019-03-19,Yajuan Zhou,LED_FY19_RBRisk_EM-01-IT,2019-03-19,63,Yajuan Zhou
+1035,ContactSegment,Draft,2019-03-19,Yajuan Zhou,LED_FY19_RBRisk_EM-01-DE,2019-03-19,63,Yajuan Zhou
+1036,ContactSegment,Draft,2019-03-19,Yajuan Zhou,LED_FY19_RBRisk_EM-01-ES,2019-03-19,63,Yajuan Zhou
+1037,ContactSegment,Draft,2019-03-19,Yajuan Zhou,LED_FY19_RBRisk_EM-01-EN,2019-03-22,55,Michelle Low
+1038,ContactSegment,Draft,2019-03-19,Yajuan Zhou,LED_FY19_RBRisk_SA-01,2019-03-19,63,Yajuan Zhou
+1039,ContactSegment,Draft,2019-03-19,Sabrina Zhuang,LI_1807_CSCasStudy_EP_SA-KR,2019-03-19,64,Sabrina Zhuang
+1040,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,DGG_1901_ZACDNA_SP_EM-v2,2019-04-03,59,Macarena Lopez-Mazzeo
+1041,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,DGG_1901_BIOUP_SP_EM_02,2019-03-26,55,Michelle Low
+1042,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_IN-02,2019-03-27,64,Sabrina Zhuang
+1043,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_SA-02-KR,2019-04-03,59,Macarena Lopez-Mazzeo
+1044,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCFAST_SA-02-EN,2019-04-03,59,Macarena Lopez-Mazzeo
+1045,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_AF-01-EN,2019-04-03,59,Macarena Lopez-Mazzeo
+1046,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_IN-01-EN,2019-04-02,55,Michelle Low
+1047,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_LA-01-EN,2019-03-19,59,Macarena Lopez-Mazzeo
+1048,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_BR-01-PT,2019-03-19,59,Macarena Lopez-Mazzeo
+1049,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_EM-01-EN,2019-04-18,64,Sabrina Zhuang
+1050,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_EM-01-DE,2019-04-18,64,Sabrina Zhuang
+1051,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_EM-01-SP,2019-04-18,64,Sabrina Zhuang
+1052,ContactSegment,Draft,2019-03-19,Michael Mcgonigal,AZ_FY19_NXWEBAPR_SA-01-KR,2019-03-19,25,Michael Mcgonigal
+1053,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_EM-01-FR,2019-04-18,64,Sabrina Zhuang
+1054,ContactSegment,Draft,2019-03-19,Michael Mcgonigal,AZ_FY19_NXWEBAPR_SA-01-EN,2019-03-19,25,Michael Mcgonigal
+1055,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_EM-01-IT,2019-04-18,64,Sabrina Zhuang
+1056,ContactSegment,Draft,2019-03-19,Michael Mcgonigal,CSD_FY19_CONECOMP_SA-01-EN,2019-03-19,25,Michael Mcgonigal
+1057,ContactSegment,Draft,2019-03-19,Michael Mcgonigal,CSD_FY19_CONECOMP_SA-01-KR,2019-03-19,25,Michael Mcgonigal
+1060,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_SA-01-EN,2019-03-27,62,Sindhuri Manda
+1061,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,CSD_FY19_GCHEAVY_SA-01-KR,2019-03-27,62,Sindhuri Manda
+1062,ContactSegment,Active,2019-03-19,Macarena Lopez-Mazzeo,SAPK - Seedlist,2024-08-22,551,Mohsin Ali
+1063,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,VI_FY19_BravMeta_SA-01-KR,2019-04-11,59,Macarena Lopez-Mazzeo
+1064,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,89_FY19_Ultivo_SA-02-KR,2019-04-11,59,Macarena Lopez-Mazzeo
+1065,ContactSegment,Draft,2019-03-19,Macarena Lopez-Mazzeo,DGG_1903_CUNGSMA_SP_EM-EN,2019-03-19,59,Macarena Lopez-Mazzeo
+1066,ContactSegment,Draft,2019-03-20,Sindhuri Manda,PAN_1904_KLAB_EX_SA_v2,2019-03-25,62,Sindhuri Manda
+1067,ContactSegment,Draft,2019-03-20,Yajuan Zhou,MA_FY19_8700LDIR_SA-01-KR,2019-03-20,63,Yajuan Zhou
+1068,ContactSegment,Draft,2019-03-20,Yajuan Zhou,CSD_FY18_SP_CAT_AF-02,2019-03-27,63,Yajuan Zhou
+1069,ContactSegment,Draft,2019-03-20,Yajuan Zhou,CSD_FY18_SP_CAT_EM-02-FR,2019-03-20,63,Yajuan Zhou
+1070,ContactSegment,Draft,2019-03-20,Yajuan Zhou,CSD_FY18_SP_CAT_EM-02-DE,2019-03-20,63,Yajuan Zhou
+1071,ContactSegment,Draft,2019-03-20,Yajuan Zhou,CSD_FY18_SP_CAT_EM-02-ES,2019-03-20,63,Yajuan Zhou
+1072,ContactSegment,Draft,2019-03-20,Yajuan Zhou,CSD_FY18_SP_CAT_EM-02-EN,2019-03-20,63,Yajuan Zhou
+1073,ContactSegment,Draft,2019-03-20,Yajuan Zhou,CSD_FY18_SP_CAT_IN-02,2019-03-27,64,Sabrina Zhuang
+1074,ContactSegment,Draft,2019-03-20,Yajuan Zhou,CSD_FY18_SP_CAT_SA-02,2019-03-22,64,Sabrina Zhuang
+1076,ContactSegment,Draft,2019-03-20,Macarena Lopez-Mazzeo,DGG_FY19_MASTR_EM-EN,2019-03-25,59,Macarena Lopez-Mazzeo
+1077,ContactSegment,Draft,2019-03-20,Macarena Lopez-Mazzeo,ATO_1905_OPTIELEM_SE_EM-DE,2019-03-20,59,Macarena Lopez-Mazzeo
+1078,ContactSegment,Draft,2019-03-20,Michael Mcgonigal,89_FY19_6546_AF-01-EN,2019-04-09,64,Sabrina Zhuang
+1079,ContactSegment,Draft,2019-03-20,Gabriela Fajfer,csd_fy19_csultra_idm1,2019-03-22,55,Michelle Low
+1080,ContactSegment,Draft,2019-03-20,Gabriela Fajfer,csd_fy19_csultra_idm2,2019-03-22,55,Michelle Low
+1081,ContactSegment,Draft,2019-03-21,Sindhuri Manda,DGG_1901_GENAV_WE_SA-02,2019-03-22,64,Sabrina Zhuang
+1082,ContactSegment,Draft,2019-03-21,Macarena Lopez-Mazzeo,PAN_1906_ForumDE_EM-02,2019-04-01,59,Macarena Lopez-Mazzeo
+1083,ContactSegment,Draft,2019-03-21,Macarena Lopez-Mazzeo,PAN_1906_ForumDE_EM-03,2019-04-30,59,Macarena Lopez-Mazzeo
+1084,ContactSegment,Draft,2019-03-21,Macarena Lopez-Mazzeo,PAN_1906_ForumDE_EM-04,2019-05-31,59,Macarena Lopez-Mazzeo
+1085,ContactSegment,Draft,2019-03-21,Macarena Lopez-Mazzeo,AZ_1904_8890LAINC_SE_EM-2,2019-04-04,63,Yajuan Zhou
+1086,ContactSegment,Draft,2019-03-22,Sabrina Zhuang,CSD_FY19_AA-EDUC_SA-01-KR,2019-03-22,64,Sabrina Zhuang
+1087,ContactSegment,Draft,2019-03-22,Sabrina Zhuang,CSD_FY19_AA-EDUC_BR-01-PT,2019-03-28,64,Sabrina Zhuang
+1088,ContactSegment,Draft,2019-03-22,Michelle Low,DGG_FY19_ SS10_IN-EN,2019-03-22,55,Michelle Low
+1089,ContactSegment,Draft,2019-03-23,Gabriela Fajfer,test-Gabby,2021-04-29,54,Gabriela Fajfer
+1091,ContactSegment,Draft,2019-03-24,Michelle Low,VPD_19_TRNSCTNL_AF-02-EN,2019-04-03,64,Sabrina Zhuang
+1092,ContactSegment,Draft,2019-03-24,Michelle Low,VPD_19_TRNSCTNL_LA-02-EN,2019-03-24,55,Michelle Low
+1093,ContactSegment,Draft,2019-03-24,Michelle Low,ATO_1903_ICP-OESeH_EP_IN,2019-03-27,55,Michelle Low
+1094,ContactSegment,Draft,2019-03-24,Michelle Low,ACA_1903_METABOLOMICS_IN,2019-03-24,55,Michelle Low
+1096,ContactSegment,Draft,2019-03-25,Macarena Lopez-Mazzeo,Untitled Segment,2019-03-25,59,Macarena Lopez-Mazzeo
+1097,ContactSegment,Draft,2019-03-25,Gabriela Fajfer,test - Gabby1-1,2020-07-22,54,Gabriela Fajfer
+1098,ContactSegment,Draft,2019-03-25,Gabriela Fajfer,LI_FY19_CSDUpgrade_EM-01,2019-03-29,54,Gabriela Fajfer
+1100,ContactSegment,Draft,2019-03-25,Lindsay Chu,DGG_1903_NGSUpdate_BR,2019-03-27,51,Lindsay Chu
+1101,ContactSegment,Draft,2019-03-25,Lindsay Chu,DGG_1903_NGSUpdate_AF,2019-03-27,51,Lindsay Chu
+1102,ContactSegment,Draft,2019-03-25,Gabriela Fajfer,SSD_1904_ILABSO_SE_EM,2019-03-26,54,Gabriela Fajfer
+1103,ContactSegment,Draft,2019-03-25,Lindsay Chu,PAN_FY19_WEBNAR_ES_BR-01,2019-03-25,51,Lindsay Chu
+1104,ContactSegment,Draft,2019-03-25,Lindsay Chu,DGG_1904_HOUCGHNGS_SE_AF_W3,2019-04-08,51,Lindsay Chu
+1105,ContactSegment,Draft,2019-03-25,Lindsay Chu,CSD_19_SUPERH_SE_AF-13-14,2019-04-10,51,Lindsay Chu
+1106,ContactSegment,Draft,2019-03-25,Lindsay Chu,AZ_19_8890_SE_AF-24,2019-04-10,51,Lindsay Chu
+1107,ContactSegment,Draft,2019-03-25,Lindsay Chu,PAN_FY19_ENEWS_EX_BR-02,2019-03-28,64,Sabrina Zhuang
+1108,ContactSegment,Draft,2019-03-25,Michael Mcgonigal,CSD_FY19_CONECOMP_IN-01-EN,2019-03-25,25,Michael Mcgonigal
+1110,ContactSegment,Draft,2019-03-26,Gabriela Fajfer,29_FY19_2DLCSolu_EM-03,2019-04-02,54,Gabriela Fajfer
+1111,ContactSegment,Draft,2019-03-26,Gabriela Fajfer,LED_FY19_COMPWEB_EM,2019-03-27,59,Macarena Lopez-Mazzeo
+1112,ContactSegment,Draft,2019-03-26,Lindsay Chu,PAN_1906_ASMS_EX_AF-02_W3,2019-03-26,51,Lindsay Chu
